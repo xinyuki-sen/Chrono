@@ -10,10 +10,11 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/xinyuki-sen/ai-news-bot/actions/workflows/daily_scrape.yml"><img src="https://img.shields.io/github/actions/workflow/status/xinyuki-sen/ai-news-bot/daily_scrape.yml?branch=main&label=Chrono%20Pipeline&logo=github&style=flat-square" alt="Pipeline Status" /></a>
-    <a href="https://xinyuki-sen.github.io/chrono/"><img src="https://img.shields.io/badge/Live%20Hub-GitHub%20Pages-4f7eff?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Hub" /></a>
-    <img src="https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+" />
-    <img src="https://img.shields.io/badge/Hosting%20Cost-%240.00%2Fmo%20(Serverless)-emerald?style=flat-square" alt="Zero Server Cost" />
+    <a href="https://chrono-lime-three.vercel.app/"><img src="https://img.shields.io/badge/Live%20Dashboard-Vercel-black?style=flat-square&logo=vercel&logoColor=white" alt="Live App on Vercel" /></a>
+    <a href="https://chrono-1j4d.onrender.com/docs"><img src="https://img.shields.io/badge/API%20Docs-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="API on Render" /></a>
+    <img src="https://img.shields.io/badge/Next.js-14%20(App%20Router)-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 14" />
+    <img src="https://img.shields.io/badge/FastAPI-Python%203.11-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Active%20AI-Gemini%20Flash-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini Flash" />
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License: MIT" />
   </p>
 
@@ -186,25 +187,24 @@ Chrono uses a stateful, dual-branch Git architecture to remain **100% serverless
 ## 📂 Repository Structure
 
 ```text
-chrono/
-├── .github/
-│   └── workflows/
-│       └── daily_scrape.yml    # Hourly GitHub Actions cron & deploy workflow
-├── assets/
-│   ├── robot_icon.png          # Chrono brand icon
-│   └── sidebar_logo.png        # Brand sidebar visual asset
-├── ai_news_bot.py              # Master multi-threaded scraping & scoring engine
-├── requirements.txt            # Minimal runtime dependencies
-├── seen_posts.db               # SQLite database maintaining cryptographic dedupe cache
-├── index.html                  # Real-time news feed web interface
-├── tools.html                  # AI tools directory web interface
-├── models.html                 # Frontier LLM benchmark catalog
-├── concepts.html               # Foundational AI concepts reference
-├── prompts.html                # Curated prompt engineering vault
-├── news.json                   # Aggregated live news feed payload
-├── tools.json                  # Parsed tools catalog payload
-├── models.json                 # Model specifications & benchmark data
-└── concepts.json               # Educational concept definitions
+Chrono/
+├── assets/                 # Brand logos and iconography
+├── backend/                # FastAPI (Python 3.11) autonomous scraper & REST API on Render
+│   ├── main.py             # FastAPI endpoints, CORS & APScheduler hourly engine
+│   ├── scraper.py          # 7+ RSS pipelines with SHA256 cryptographic dedupe
+│   ├── database.py         # Supabase PostgreSQL persistence integration
+│   ├── requirements.txt    # Production Python dependencies
+│   └── .python-version     # Pinned Python 3.11.9
+├── frontend/               # Next.js 14 + Tailwind CSS + TypeScript on Vercel
+│   ├── app/                # App Router (Feed, Saved, Prompts, Tools, Models, Concepts)
+│   ├── app/api/summarize/  # Active AI Executive TL;DR route (Gemini Flash)
+│   ├── components/         # Modern UI components (Sidebar, ArticleCard, RightPanel)
+│   ├── lib/api.ts          # Resilient API client with automatic offline fallback
+│   └── public/             # Curated models, prompts, tools & concepts datasets
+├── legacy_v1/              # Archived Level 1 static single-file HTML implementation
+├── .github/                # GitHub Actions & CI/CD workflows
+├── start.sh                # 1-click local development startup script
+└── README.md               # Master technical documentation
 ```
 
 ---

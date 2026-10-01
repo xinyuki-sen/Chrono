@@ -1,8 +1,6 @@
-name: Chrono Daily AI Scrape & Deploy
+name: Chrono Legacy v1 Scrape & Deploy
 
 on:
-  push:
-    branches: [ main ]
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
@@ -16,7 +14,6 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      # Get your code (from main - this never gets modified by the bot)
       - name: Checkout code
         uses: actions/checkout@v4
 
@@ -26,39 +23,23 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      # Try to grab yesterday's memory notebook from gh-pages branch
-      # (so we don't repeat old news). If it doesn't exist yet, that's fine.
-      - name: Restore previous database
-        run: |
-          git fetch origin gh-pages || true
-          git show origin/gh-pages:seen_posts.db > seen_posts.db 2>/dev/null || echo "No previous database found, starting fresh"
+        run: pip install -r legacy_v1/requirements.txt
 
       - name: Run AI News Bot
+        working-directory: ./legacy_v1
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python ai_news_bot.py
 
-      # Put the bot's output (webpage + data + memory + assets) into their own folder
       - name: Prepare output folder
         run: |
           mkdir -p site
           cp -r assets site/ || true
-          cp index.html site/
-          cp tools.html site/
-          cp prompts.html site/ || true
-          cp models.html site/ || true
-          cp concepts.html site/ || true
-          cp news.json site/
-          cp tools.json site/
-          cp prompts.json site/ || true
-          cp models.json site/ || true
-          cp concepts.json site/ || true
-          cp seen_posts.db site/
+          cp legacy_v1/*.html site/ || true
+          cp legacy_v1/*.json site/ || true
+          cp legacy_v1/seen_posts.db site/ || true
 
-      # Publish that folder to gh-pages branch ONLY - never touches main
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
