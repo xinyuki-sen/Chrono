@@ -23,7 +23,6 @@ export default function FeedPage() {
   const [loading, setLoading] = useState(true);
 
   const load = useCallback(async () => {
-    setLoading(true);
     try {
       const [art, st] = await Promise.all([
         fetchArticles({ category, q: query || undefined, limit: 60 }),
@@ -39,14 +38,11 @@ export default function FeedPage() {
   }, [category, query]);
 
   useEffect(() => {
-    load();
-  }, [load]);
-
-  // Debounced search
-  useEffect(() => {
-    const t = setTimeout(load, 350);
+    const t = setTimeout(() => {
+      load();
+    }, query ? 350 : 0);
     return () => clearTimeout(t);
-  }, [query, load]);
+  }, [category, query, load]);
 
   return (
     <div className="flex justify-center w-full min-h-full">

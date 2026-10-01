@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { fetchTrending, fetchStats, Article, Stats, timeAgo } from "@/lib/api";
-import { FireIcon, ChartBarIcon, ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
+import { FireIcon, ChartBarIcon } from "@heroicons/react/24/outline";
 
 export default function RightPanelClient() {
   const [trending, setTrending] = useState<Article[]>([]);

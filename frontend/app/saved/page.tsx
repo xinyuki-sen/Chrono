@@ -7,18 +7,27 @@ import { BookmarkIcon } from "@heroicons/react/24/outline";
 
 export default function SavedPage() {
   const [articles, setArticles] = useState<Article[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(() => {
+    if (typeof window === "undefined") return true;
+    try {
+      const ids = JSON.parse(localStorage.getItem("saved") || "[]");
+      return ids.length > 0;
+    } catch {
+      return false;
+    }
+  });
 
   useEffect(() => {
-    const ids: string[] = JSON.parse(localStorage.getItem("saved") || "[]");
-    if (ids.length === 0) {
-      setLoading(false);
-      return;
+    try {
+      const ids: string[] = JSON.parse(localStorage.getItem("saved") || "[]");
+      if (ids.length === 0) return;
+      fetchArticles({ limit: 100 })
+        .then((res) => setArticles(res.articles.filter((a) => ids.includes(a.id))))
+        .catch((err) => console.error(err))
+        .finally(() => setLoading(false));
+    } catch {
+      setTimeout(() => setLoading(false), 0);
     }
-    fetchArticles({ limit: 100 })
-      .then((res) => setArticles(res.articles.filter((a) => ids.includes(a.id))))
-      .catch((err) => console.error(err))
-      .finally(() => setLoading(false));
   }, []);
 
   return (
