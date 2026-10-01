@@ -38,9 +38,12 @@ export default function Sidebar() {
       {/* Brand Header */}
       <div className="p-5 border-b border-slate-800/60">
         <Link href="/" className="flex items-center gap-2.5 group">
-          <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-blue-600 to-indigo-500 flex items-center justify-center text-white shadow-lg shadow-blue-500/30 group-hover:scale-105 transition-transform">
-            ⚡
-          </div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/sidebar_logo.png"
+            alt="Chrono Logo"
+            className="w-9 h-9 rounded-xl object-cover shadow-md group-hover:scale-105 transition-transform"
+          />
           <div>
             <div className="flex items-center gap-2">
               <span className="text-base font-bold tracking-tight text-white">Chrono</span>
