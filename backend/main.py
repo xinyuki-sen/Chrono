@@ -42,7 +42,7 @@ app = FastAPI(title="Chrono API", version="2.0.0", lifespan=lifespan)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # tighten in production
-    allow_methods=["GET"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
