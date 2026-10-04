@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T10:30:28.636999+05:30",
+  "last_updated": "2026-10-04T16:34:18.802454+05:30",
   "top_pick_ids": [
     1,
     2,
@@ -13,349 +13,349 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and notes to accompany t",
-      "published_at": "2026-10-04T10:30:28.635561+05:30"
+      "published_at": "2026-10-04T16:34:18.800691+05:30"
     },
     {
       "id": 2,
+      "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
+      "source": "Machine Learning",
+      "category": "Coding",
+      "summary": "Nonobench measures how well LLMs solve nonograms (picross). Each model gets the row and column clues once and returns the full grid. No tools, one attempt per puzzle. Method: - Standard mode: 30 puzzles from 5x5 to 15x15 (from the Nonograms dataset by Moyà-Alcover, CC BY 4.0). - Hard mode: ten rando",
+      "published_at": "2026-10-04T16:34:18.800724+05:30"
+    },
+    {
+      "id": 3,
       "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "I'm one of the authors. We kept seeing models that hold their ground when the user insists on a wrong answer, yet change their answer when the same claim is framed as coming from a &quot;verified source&quot;. We wanted to measure how often this happens and check whether the model represents the two",
-      "published_at": "2026-10-04T10:30:28.635578+05:30"
+      "published_at": "2026-10-04T16:34:18.800736+05:30"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Claude Sonnet 5.5",
       "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles. Sonnet 5.5 suffe",
-      "published_at": "2026-10-04T10:30:28.635593+05:30"
+      "published_at": "2026-10-04T16:34:18.800752+05:30"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 172.0k stars · HTML — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "published_at": "2026-10-04T10:30:28.635616+05:30"
+      "published_at": "2026-10-04T16:34:18.800778+05:30"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "September sponsors-only newsletter",
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The",
-      "published_at": "2026-10-04T10:30:28.635627+05:30"
+      "published_at": "2026-10-04T16:34:18.800790+05:30"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Quoting Anthropic Frontier Red Team",
       "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
       "source": "Simon Willison's Weblog",
       "category": "Productivity",
       "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful t",
-      "published_at": "2026-10-04T10:30:28.635648+05:30"
+      "published_at": "2026-10-04T16:34:18.800814+05:30"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
       "source": "Machine Learning",
       "category": "Other",
       "summary": "&quot;TypeSafe AI sells Jev as a frontier-class reasoner that cannot hallucinate, built by the co-inventor of ChatGPT - fast, and almost free. We ran it live on 16,379 benchmark requests, measured its latency and billing, and probed what it is underneath. The result is a smaller, humbler model that ",
-      "published_at": "2026-10-04T10:30:28.635673+05:30"
+      "published_at": "2026-10-04T16:34:18.800846+05:30"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 136.0k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "published_at": "2026-10-04T10:30:28.635685+05:30"
+      "summary": "⭐ 136.1k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "published_at": "2026-10-04T16:34:18.800857+05:30"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "When can we say AI made a scientific discovery?",
       "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "source": "Artificial intelligence – MIT Technology Review",
       "category": "Chatbot/Assistant",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
-      "published_at": "2026-10-04T10:30:28.635707+05:30"
+      "published_at": "2026-10-04T16:34:18.800882+05:30"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "An OpenAI safety employee has quit and is sounding the alarm",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "source": "AI | The Verge",
       "category": "Other",
       "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwo",
-      "published_at": "2026-10-04T10:30:28.635729+05:30"
+      "published_at": "2026-10-04T16:34:18.800907+05:30"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Meta open sources code to let you make Muse AI gadgets",
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "source": "AI | The Verge",
       "category": "Coding",
       "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-      "published_at": "2026-10-04T10:30:28.635735+05:30"
+      "published_at": "2026-10-04T16:34:18.800914+05:30"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Kākāpō Party",
       "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around",
-      "published_at": "2026-10-04T10:30:28.635767+05:30"
+      "published_at": "2026-10-04T16:34:18.800947+05:30"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 187.6k stars · Python — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "published_at": "2026-10-04T10:30:28.635776+05:30"
+      "published_at": "2026-10-04T16:34:18.800956+05:30"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 157.8k stars · TypeScript — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "published_at": "2026-10-04T10:30:28.635792+05:30"
+      "published_at": "2026-10-04T16:34:18.800974+05:30"
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Coding",
       "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "published_at": "2026-10-04T10:30:28.635798+05:30"
-    },
-    {
-      "id": 16,
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.635809+05:30"
+      "published_at": "2026-10-04T16:34:18.800980+05:30"
     },
     {
       "id": 17,
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "published_at": "2026-10-04T10:30:28.635827+05:30"
-    },
-    {
-      "id": 18,
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.635838+05:30"
-    },
-    {
-      "id": 19,
       "title": "We're going to need default hard budget caps on pretty much everything",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after X/month, cut this thing off and return errors\". These need to be hard lim",
-      "published_at": "2026-10-04T10:30:28.635855+05:30"
+      "published_at": "2026-10-04T16:34:18.801001+05:30"
     },
     {
-      "id": 20,
+      "id": 18,
       "title": "Quoting Matthew Green",
       "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and tho",
-      "published_at": "2026-10-04T10:30:28.635866+05:30"
+      "published_at": "2026-10-04T16:34:18.801013+05:30"
     },
     {
-      "id": 21,
+      "id": 19,
       "title": "Photo Scrubber — local face blur & metadata removal",
       "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "Tool: Photo Scrubber — local face blur &amp; metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out",
-      "published_at": "2026-10-04T10:30:28.635878+05:30"
+      "published_at": "2026-10-04T16:34:18.801027+05:30"
     },
     {
-      "id": 22,
+      "id": 20,
       "title": "Quoting @joedaroo",
       "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at pl",
-      "published_at": "2026-10-04T10:30:28.635898+05:30"
+      "published_at": "2026-10-04T16:34:18.801048+05:30"
     },
     {
-      "id": 23,
+      "id": 21,
       "title": "Quoting John Gruber",
       "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
       "source": "Simon Willison's Weblog",
       "category": "Chatbot/Assistant",
       "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot. It’s the first ",
-      "published_at": "2026-10-04T10:30:28.635944+05:30"
+      "published_at": "2026-10-04T16:34:18.801100+05:30"
+    },
+    {
+      "id": 22,
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801112+05:30"
+    },
+    {
+      "id": 23,
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "published_at": "2026-10-04T16:34:18.801131+05:30"
     },
     {
       "id": 24,
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801142+05:30"
+    },
+    {
+      "id": 25,
       "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
       "url": "https://www.latent.space/p/thariq",
       "source": "Latent.Space",
       "category": "Coding",
       "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-      "published_at": "2026-10-04T10:30:28.635951+05:30"
+      "published_at": "2026-10-04T16:34:18.801149+05:30"
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
       "url": "https://www.latent.space/p/openrouter",
       "source": "Latent.Space",
       "category": "Other",
       "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
-      "published_at": "2026-10-04T10:30:28.635970+05:30"
+      "published_at": "2026-10-04T16:34:18.801171+05:30"
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "source": "Latent.Space",
       "category": "Other",
       "summary": "overshadowing more efficient GPT6 models from OpenAI",
-      "published_at": "2026-10-04T10:30:28.635985+05:30"
+      "published_at": "2026-10-04T16:34:18.801188+05:30"
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
       "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
       "source": "Latent.Space",
       "category": "Other",
       "summary": "crowning a new Chinese frontier lab",
-      "published_at": "2026-10-04T10:30:28.635997+05:30"
+      "published_at": "2026-10-04T16:34:18.801202+05:30"
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
       "source": "Machine Learning",
       "category": "Research",
       "summary": "I recently finished The Principles of Diffusion Models, and honestly I think it’s exceptional. The authors strike a really good balance between mathematical rigor and intuition, with dedicated appendices for anyone who wants to go deeper into the math. It’s aimed at researchers, graduate students, a",
-      "published_at": "2026-10-04T10:30:28.636035+05:30"
+      "published_at": "2026-10-04T16:34:18.801244+05:30"
     },
     {
-      "id": 29,
+      "id": 30,
       "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
       "source": "Machine Learning",
       "category": "Research",
       "summary": "Can training of nonlinear RNNs be efficiently parallelized, ensuring fast convergence even on very long time series from chaotic systems? In our #NeurIPS2026 spotlight “Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems (DS) Reconstruction (DSR)” (preprint: https://arxiv.or",
-      "published_at": "2026-10-04T10:30:28.636121+05:30"
+      "published_at": "2026-10-04T16:34:18.801328+05:30"
     },
     {
-      "id": 30,
+      "id": 31,
       "title": "Gemini 4 Argon - 1 Million Output Headroom. Hype or a Leap? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wuvmpo/gemini_4_argon_1_million_output_headroom_hype_or/",
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "I rarely write about benchmarks; a competitor always beats them next week. But I care about 'Leaps'. Gemini 4 Argon feels like one to me. While Opus 5.5 and Astra cap output at 128-300K tokens (~90-180 pages), Argon hits 1 Million (~1400 pages). &quot;Context glue&quot; ruins agentic workflows. On p",
-      "published_at": "2026-10-04T10:30:28.636132+05:30"
+      "published_at": "2026-10-04T16:34:18.801339+05:30"
     },
     {
-      "id": 31,
+      "id": 32,
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 251.0k stars · Python — The agent that grows with you",
-      "published_at": "2026-10-04T10:30:28.636144+05:30"
+      "summary": "⭐ 251.1k stars · Python — The agent that grows with you",
+      "published_at": "2026-10-04T16:34:18.801352+05:30"
     },
     {
-      "id": 32,
+      "id": 33,
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 188.3k stars · TypeScript — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "published_at": "2026-10-04T10:30:28.636160+05:30"
+      "summary": "⭐ 188.4k stars · TypeScript — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "published_at": "2026-10-04T16:34:18.801370+05:30"
     },
     {
-      "id": 33,
+      "id": 34,
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 147.4k stars · Python — The agent engineering platform.",
-      "published_at": "2026-10-04T10:30:28.636173+05:30"
+      "published_at": "2026-10-04T16:34:18.801385+05:30"
     },
     {
-      "id": 34,
+      "id": 35,
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 109.6k stars · Go — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "published_at": "2026-10-04T10:30:28.636181+05:30"
+      "summary": "⭐ 109.7k stars · Go — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "published_at": "2026-10-04T16:34:18.801393+05:30"
     },
     {
-      "id": 35,
+      "id": 36,
       "title": "HF Model: Cloudflare/clef",
       "url": "https://huggingface.co/models/Cloudflare/clef",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 1,015 likes · 2,620 downloads · Task: image-text-to-text",
-      "published_at": "2026-10-04T10:30:28.636189+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,063 likes · 4,214 downloads · Task: image-text-to-text",
+      "published_at": "2026-10-04T16:34:18.801401+05:30"
     },
     {
-      "id": 36,
+      "id": 37,
       "title": "HF Model: convaiinnovations/laya",
       "url": "https://huggingface.co/models/convaiinnovations/laya",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 5,086 likes · 0 downloads · Task: text-classification",
-      "published_at": "2026-10-04T10:30:28.636201+05:30"
+      "summary": "🔥 Trending on Hugging Face · 5,109 likes · 3,752 downloads · Task: text-classification",
+      "published_at": "2026-10-04T16:34:18.801414+05:30"
     },
     {
-      "id": 37,
+      "id": 38,
       "title": "HF Model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "url": "https://huggingface.co/models/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 2,951 likes · 1,455,921 downloads · Task: text-to-image",
-      "published_at": "2026-10-04T10:30:28.636208+05:30"
+      "summary": "🔥 Trending on Hugging Face · 2,976 likes · 1,553,744 downloads · Task: text-to-image",
+      "published_at": "2026-10-04T16:34:18.801422+05:30"
     },
     {
-      "id": 38,
+      "id": 39,
       "title": "HF Model: Lightricks/LTX-2.5",
       "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 6,154 likes · 1,629,984 downloads · Task: image-to-video",
-      "published_at": "2026-10-04T10:30:28.636215+05:30"
-    },
-    {
-      "id": 39,
-      "title": "HF Model: Qwen/Qwen-Image-2.1",
-      "url": "https://huggingface.co/models/Qwen/Qwen-Image-2.1",
-      "source": "Hugging Face Blog",
-      "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 2,909 likes · 85,895 downloads · Task: text-to-image",
-      "published_at": "2026-10-04T10:30:28.636222+05:30"
+      "summary": "🔥 Trending on Hugging Face · 6,191 likes · 1,626,951 downloads · Task: image-to-video",
+      "published_at": "2026-10-04T16:34:18.801429+05:30"
     },
     {
       "id": 40,
@@ -363,8 +363,8 @@
       "url": "https://huggingface.co/models/Cloudflare/clef-flash",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 367 likes · 4,310 downloads · Task: image-text-to-text",
-      "published_at": "2026-10-04T10:30:28.636229+05:30"
+      "summary": "🔥 Trending on Hugging Face · 384 likes · 6,372 downloads · Task: image-text-to-text",
+      "published_at": "2026-10-04T16:34:18.801437+05:30"
     },
     {
       "id": 41,
@@ -372,539 +372,539 @@
       "url": "https://huggingface.co/models/Qwen/Qwen3.8-27B",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 16,890 likes · 6,895,117 downloads · Task: image-text-to-text",
-      "published_at": "2026-10-04T10:30:28.636237+05:30"
+      "summary": "🔥 Trending on Hugging Face · 16,901 likes · 6,821,761 downloads · Task: image-text-to-text",
+      "published_at": "2026-10-04T16:34:18.801445+05:30"
     },
     {
       "id": 42,
-      "title": "HF Model: Contrastive-LM/CLM-v0.1-8B",
-      "url": "https://huggingface.co/models/Contrastive-LM/CLM-v0.1-8B",
+      "title": "HF Model: Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/models/Qwen/Qwen-Image-2.1",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 693 likes · 3,190 downloads · Task: text-ranking",
-      "published_at": "2026-10-04T10:30:28.636248+05:30"
+      "summary": "🔥 Trending on Hugging Face · 2,915 likes · 90,003 downloads · Task: text-to-image",
+      "published_at": "2026-10-04T16:34:18.801453+05:30"
     },
     {
       "id": 43,
+      "title": "HF Model: Aleph-Alpha/Kolibri-1",
+      "url": "https://huggingface.co/models/Aleph-Alpha/Kolibri-1",
+      "source": "Hugging Face Blog",
+      "category": "Open Source",
+      "summary": "🔥 Trending on Hugging Face · 310 likes · 1,135 downloads · Task: text-generation",
+      "published_at": "2026-10-04T16:34:18.801465+05:30"
+    },
+    {
+      "id": 44,
       "title": "The AI Hype Index: AI loves cheating",
       "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "source": "Artificial intelligence – MIT Technology Review",
       "category": "Chatbot/Assistant",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
-      "published_at": "2026-10-04T10:30:28.636273+05:30"
+      "published_at": "2026-10-04T16:34:18.801493+05:30"
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "Don’t be fooled by this summer of AI hype",
       "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "source": "Artificial intelligence – MIT Technology Review",
       "category": "Coding",
       "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
-      "published_at": "2026-10-04T10:30:28.636284+05:30"
+      "published_at": "2026-10-04T16:34:18.801510+05:30"
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "source": "Ars Technica - All content",
       "category": "LLMs",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "published_at": "2026-10-04T10:30:28.636297+05:30"
+      "published_at": "2026-10-04T16:34:18.801530+05:30"
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "Venus' mysterious haze is actually cosmic dust",
       "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
       "source": "Ars Technica - All content",
       "category": "LLMs",
       "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
-      "published_at": "2026-10-04T10:30:28.636310+05:30"
-    },
-    {
-      "id": 47,
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face - Blog",
-      "category": "Research",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636319+05:30"
+      "published_at": "2026-10-04T16:34:18.801549+05:30"
     },
     {
       "id": 48,
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face - Blog",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636329+05:30"
-    },
-    {
-      "id": 49,
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face - Blog",
-      "category": "Coding",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636334+05:30"
-    },
-    {
-      "id": 50,
       "title": "Agents don't need memory, they need documentation",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
       "source": "Hacker News",
       "category": "Products",
       "summary": "Comments",
-      "published_at": "2026-10-04T10:30:28.636344+05:30"
+      "published_at": "2026-10-04T16:34:18.801564+05:30"
+    },
+    {
+      "id": 49,
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face - Blog",
+      "category": "Research",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801578+05:30"
+    },
+    {
+      "id": 50,
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face - Blog",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801593+05:30"
     },
     {
       "id": 51,
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-10-04T10:30:28.636354+05:30"
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face - Blog",
+      "category": "Coding",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801600+05:30"
     },
     {
       "id": 52,
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-10-04T10:30:28.636359+05:30"
-    },
-    {
-      "id": 53,
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "source": "Google DeepMind News",
-      "category": "Coding",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636364+05:30"
-    },
-    {
-      "id": 54,
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/mar",
-      "published_at": "2026-10-04T10:30:28.636370+05:30"
+      "published_at": "2026-10-04T16:34:18.801610+05:30"
     },
     {
-      "id": 55,
+      "id": 53,
       "title": "OpenAI DevDay 2026 live blog",
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai, openai, generative-ai, llms, coding-agents, live-blog, openai-de",
-      "published_at": "2026-10-04T10:30:28.636374+05:30"
+      "published_at": "2026-10-04T16:34:18.801618+05:30"
     },
     {
-      "id": 56,
+      "id": 54,
       "title": "Quoting Muse AI Agent",
       "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
       "source": "Simon Willison's Weblog",
       "category": "Chatbot/Assistant",
       "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. T",
-      "published_at": "2026-10-04T10:30:28.636406+05:30"
+      "published_at": "2026-10-04T16:34:18.801663+05:30"
     },
     {
-      "id": 57,
+      "id": 55,
       "title": "Note on 24th September 2026",
       "url": "https://simonwillison.net/2026/Sep/24/harder/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents, ai, llms",
-      "published_at": "2026-10-04T10:30:28.636412+05:30"
+      "published_at": "2026-10-04T16:34:18.801673+05:30"
+    },
+    {
+      "id": 56,
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind News",
+      "category": "Coding",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.801681+05:30"
+    },
+    {
+      "id": 57,
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "source": "Two Minute Papers",
+      "category": "Coding",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthr",
+      "published_at": "2026-10-04T16:34:18.801722+05:30"
     },
     {
       "id": 58,
+      "title": "Yes, Jev Is Insane, But There's A Catch",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "source": "Two Minute Papers",
+      "category": "Writing",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya http",
+      "published_at": "2026-10-04T16:34:18.801745+05:30"
+    },
+    {
+      "id": 59,
+      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "source": "Two Minute Papers",
+      "category": "Coding",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos",
+      "published_at": "2026-10-04T16:34:18.801769+05:30"
+    },
+    {
+      "id": 60,
+      "title": "How OpenAI Hacked HuggingFace",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "source": "Two Minute Papers",
+      "category": "Writing",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agent-intrusion-technica",
+      "published_at": "2026-10-04T16:34:18.801780+05:30"
+    },
+    {
+      "id": 61,
       "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "source": "Latent.Space",
       "category": "Coding",
       "summary": "the most confident DevDay yet.",
-      "published_at": "2026-10-04T10:30:28.636417+05:30"
+      "published_at": "2026-10-04T16:34:18.801786+05:30"
     },
     {
-      "id": 59,
+      "id": 62,
+      "title": "Working with an AI Company That Does Things You Disagree With [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "source": "Machine Learning",
+      "category": "Coding",
+      "summary": "I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don't want to name the company but their marketing and product team does all k",
+      "published_at": "2026-10-04T16:34:18.801800+05:30"
+    },
+    {
+      "id": 63,
       "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "In our #NeurIPS2026 paper “Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction” (preprint: https://arxiv.org/abs/2606.22969) we try to address a fundamental issue in dynamical systems reconstruction (DSR) and time series forecasting (TSF): Many recent SOTA DSR &amp; TSF mode",
-      "published_at": "2026-10-04T10:30:28.636455+05:30"
-    },
-    {
-      "id": 60,
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Other",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
-      "published_at": "2026-10-04T10:30:28.636476+05:30"
-    },
-    {
-      "id": 61,
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Other",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "published_at": "2026-10-04T10:30:28.636498+05:30"
-    },
-    {
-      "id": 62,
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Research",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
-      "published_at": "2026-10-04T10:30:28.636520+05:30"
-    },
-    {
-      "id": 63,
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Image",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
-      "published_at": "2026-10-04T10:30:28.636529+05:30"
+      "published_at": "2026-10-04T16:34:18.801843+05:30"
     },
     {
       "id": 64,
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Chatbot/Assistant",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
-      "published_at": "2026-10-04T10:30:28.636553+05:30"
-    },
-    {
-      "id": 65,
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Image",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
-      "published_at": "2026-10-04T10:30:28.636567+05:30"
-    },
-    {
-      "id": 66,
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "AI | The Verge",
-      "category": "Chatbot/Assistant",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
-      "published_at": "2026-10-04T10:30:28.636590+05:30"
-    },
-    {
-      "id": 67,
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "AI | The Verge",
-      "category": "Chatbot/Assistant",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI ann",
-      "published_at": "2026-10-04T10:30:28.636614+05:30"
-    },
-    {
-      "id": 68,
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Other",
       "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "published_at": "2026-10-04T10:30:28.636632+05:30"
+      "published_at": "2026-10-04T16:34:18.801864+05:30"
     },
     {
-      "id": 69,
+      "id": 65,
       "title": "All the AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Image",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "published_at": "2026-10-04T10:30:28.636640+05:30"
+      "published_at": "2026-10-04T16:34:18.801873+05:30"
     },
     {
-      "id": 70,
+      "id": 66,
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Chatbot/Assistant",
       "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "published_at": "2026-10-04T10:30:28.636662+05:30"
+      "published_at": "2026-10-04T16:34:18.801897+05:30"
     },
     {
-      "id": 71,
+      "id": 67,
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Coding",
       "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
-      "published_at": "2026-10-04T10:30:28.636674+05:30"
+      "published_at": "2026-10-04T16:34:18.801911+05:30"
     },
     {
-      "id": 72,
+      "id": 68,
       "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
       "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Coding",
       "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
-      "published_at": "2026-10-04T10:30:28.636686+05:30"
+      "published_at": "2026-10-04T16:34:18.801923+05:30"
     },
     {
-      "id": 73,
+      "id": 69,
       "title": "ChatGPT can now virtually try on clothes for you",
       "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Image",
       "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "published_at": "2026-10-04T10:30:28.636693+05:30"
+      "published_at": "2026-10-04T16:34:18.801932+05:30"
+    },
+    {
+      "id": 70,
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Other",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "published_at": "2026-10-04T16:34:18.801956+05:30"
+    },
+    {
+      "id": 71,
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Other",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "published_at": "2026-10-04T16:34:18.801980+05:30"
+    },
+    {
+      "id": 72,
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Research",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+      "published_at": "2026-10-04T16:34:18.802005+05:30"
+    },
+    {
+      "id": 73,
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Image",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+      "published_at": "2026-10-04T16:34:18.802016+05:30"
     },
     {
       "id": 74,
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Chatbot/Assistant",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
+      "published_at": "2026-10-04T16:34:18.802042+05:30"
+    },
+    {
+      "id": 75,
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Image",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
+      "published_at": "2026-10-04T16:34:18.802058+05:30"
+    },
+    {
+      "id": 76,
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "AI | The Verge",
+      "category": "Chatbot/Assistant",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
+      "published_at": "2026-10-04T16:34:18.802085+05:30"
+    },
+    {
+      "id": 77,
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "AI | The Verge",
+      "category": "Chatbot/Assistant",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI ann",
+      "published_at": "2026-10-04T16:34:18.802111+05:30"
+    },
+    {
+      "id": 78,
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face - Blog",
       "category": "Research",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636702+05:30"
+      "published_at": "2026-10-04T16:34:18.802122+05:30"
     },
     {
-      "id": 75,
+      "id": 79,
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636713+05:30"
+      "published_at": "2026-10-04T16:34:18.802134+05:30"
     },
     {
-      "id": 76,
+      "id": 80,
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "source": "Hugging Face - Blog",
       "category": "Chatbot/Assistant",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636724+05:30"
+      "published_at": "2026-10-04T16:34:18.802147+05:30"
     },
     {
-      "id": 77,
+      "id": 81,
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
       "source": "Hugging Face - Blog",
       "category": "Chatbot/Assistant",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636734+05:30"
+      "published_at": "2026-10-04T16:34:18.802158+05:30"
     },
     {
-      "id": 78,
+      "id": 82,
       "title": "Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636743+05:30"
+      "published_at": "2026-10-04T16:34:18.802168+05:30"
     },
     {
-      "id": 79,
+      "id": 83,
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "source": "Hugging Face - Blog",
       "category": "Productivity",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636751+05:30"
+      "published_at": "2026-10-04T16:34:18.802177+05:30"
     },
     {
-      "id": 80,
+      "id": 84,
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636761+05:30"
+      "published_at": "2026-10-04T16:34:18.802189+05:30"
     },
     {
-      "id": 81,
+      "id": 85,
       "title": "Give Your Coding Agents a Memory You Own",
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face - Blog",
       "category": "Coding",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636766+05:30"
+      "published_at": "2026-10-04T16:34:18.802194+05:30"
     },
     {
-      "id": 82,
+      "id": 86,
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "url": "https://huggingface.co/blog/allenai/benchmirt",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636775+05:30"
-    },
-    {
-      "id": 83,
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind News",
-      "category": "Image",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636781+05:30"
-    },
-    {
-      "id": 84,
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind News",
-      "category": "Audio",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636788+05:30"
-    },
-    {
-      "id": 85,
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636797+05:30"
-    },
-    {
-      "id": 86,
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636808+05:30"
+      "published_at": "2026-10-04T16:34:18.802205+05:30"
     },
     {
       "id": 87,
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636817+05:30"
-    },
-    {
-      "id": 88,
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636826+05:30"
-    },
-    {
-      "id": 89,
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "source": "Google DeepMind News",
-      "category": "Audio",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "published_at": "2026-10-04T10:30:28.636836+05:30"
-    },
-    {
-      "id": 90,
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "source": "Google DeepMind News",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-10-04T10:30:28.636845+05:30"
-    },
-    {
-      "id": 91,
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "Google DeepMind News",
-      "category": "Coding",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "published_at": "2026-10-04T10:30:28.636852+05:30"
-    },
-    {
-      "id": 92,
       "title": "He Built This City",
       "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "source": "Simon Willison's Weblog",
       "category": "Other",
       "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolut",
-      "published_at": "2026-10-04T10:30:28.636876+05:30"
+      "published_at": "2026-10-04T16:34:18.802232+05:30"
+    },
+    {
+      "id": 88,
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind News",
+      "category": "Image",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802239+05:30"
+    },
+    {
+      "id": 89,
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind News",
+      "category": "Audio",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802247+05:30"
+    },
+    {
+      "id": 90,
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802258+05:30"
+    },
+    {
+      "id": 91,
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802270+05:30"
+    },
+    {
+      "id": 92,
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802280+05:30"
     },
     {
       "id": 93,
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "url": "https://www.latent.space/p/airbnb",
-      "source": "Latent.Space",
-      "category": "Coding",
-      "summary": "After leading Meta&#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI &#8212; from how its teams develop products to how it serves guests.",
-      "published_at": "2026-10-04T10:30:28.636883+05:30"
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802303+05:30"
     },
     {
       "id": 94,
-      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "source": "Latent.Space",
-      "category": "Other",
-      "summary": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;",
-      "published_at": "2026-10-04T10:30:28.636900+05:30"
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind News",
+      "category": "Audio",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "published_at": "2026-10-04T16:34:18.802314+05:30"
     },
     {
       "id": 95,
-      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-      "url": "https://www.latent.space/p/runway",
-      "source": "Latent.Space",
-      "category": "Coding",
-      "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
-      "published_at": "2026-10-04T10:30:28.636908+05:30"
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-10-04T16:34:18.802323+05:30"
     },
     {
       "id": 96,
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "url": "https://www.latent.space/p/jev",
-      "source": "Latent.Space",
-      "category": "Audio",
-      "summary": "The definitive Jev podcast with its lead creator.",
-      "published_at": "2026-10-04T10:30:28.636919+05:30"
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind News",
+      "category": "Coding",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "published_at": "2026-10-04T16:34:18.802332+05:30"
     },
     {
       "id": 97,
-      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
-      "source": "Machine Learning",
+      "title": "DeepSeek’s Insane New Architecture",
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "source": "Two Minute Papers",
       "category": "Coding",
-      "summary": "I am one of the authors of FLEET - an algorithm that enhances Best-of-N generation by attributing external rewards to particular tokens and then uses MCTS to adjust logits during the next run. I find it rather funny that most of the tasks where repetitive sampling is widely used are based on reward ",
-      "published_at": "2026-10-04T10:30:28.636935+05:30"
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/209944",
+      "published_at": "2026-10-04T16:34:18.802354+05:30"
     },
     {
       "id": 98,
-      "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "Suppose you’re recording a human plugging a cable into a socket to collect demonstrations for robot learning. The hand tracker captures the approach accurately. Then occlusion causes the hand estimates to disappear during insertion. Tracking returns after the connector is already seated. The video s",
-      "published_at": "2026-10-04T10:30:28.636970+05:30"
+      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+      "source": "Two Minute Papers",
+      "category": "Image",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-text-watermark 🙏 We wo",
+      "published_at": "2026-10-04T16:34:18.802374+05:30"
     },
     {
       "id": 99,
-      "title": "How to address novelty concerns in top ai conference? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "Hi, I’m a researcher working in computer vision. Over the past few years, I’ve submitted several papers to top-tier conferences such as NeurIPS, ICLR, and CVPR, and one concern that seems to come up repeatedly is 'novelty'. Given that thousands of papers are published every year at top conferences a",
-      "published_at": "2026-10-04T10:30:28.636988+05:30"
+      "title": "GPT-6 Astra Changes Everything",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "source": "Two Minute Papers",
+      "category": "Research",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/20956618740378132",
+      "published_at": "2026-10-04T16:34:18.802436+05:30"
     },
     {
       "id": 100,
-      "title": "For academia/industry, do HuggingFace model downloads mean anything for academic job market? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg09c/for_academiaindustry_do_huggingface_model/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "I am applying to academic jobs. We are told to include a section on &quot;impact&quot;. I am wondering if the total number of HuggingFace downloads of custom models I have trained would be considered legit impact, or if people would think this was all bots. Relatedly, for industry (AI labs), is the ",
-      "published_at": "2026-10-04T10:30:28.636997+05:30"
+      "title": "The Billion Dollar AI Gap Is Collapsing",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "source": "Two Minute Papers",
+      "category": "Writing",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/analogalok/status/20",
+      "published_at": "2026-10-04T16:34:18.802451+05:30"
     }
   ]
 }
