@@ -6,7 +6,7 @@ import Sidebar from "@/components/Sidebar";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chrono — Real-Time AI Intelligence",
+  title: "Chrono",
   description: "17 AI sources. Updated hourly. Zero noise.",
   icons: {
     icon: "/robot_icon.png",
