@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T14:29:40.877887+05:30",
+  "last_updated": "2026-11-04T22:36:08.396013+05:30",
   "top_pick_ids": [
     1,
     2,
@@ -13,7 +13,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October",
-      "published_at": "2026-11-04T14:29:40.876731+05:30"
+      "published_at": "2026-11-04T22:36:08.394350+05:30"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning an",
-      "published_at": "2026-11-04T14:29:40.876747+05:30"
+      "published_at": "2026-11-04T22:36:08.394379+05:30"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particul",
-      "published_at": "2026-11-04T14:29:40.876779+05:30"
+      "published_at": "2026-11-04T22:36:08.394437+05:30"
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models tha",
-      "published_at": "2026-11-04T14:29:40.876786+05:30"
+      "published_at": "2026-11-04T22:36:08.394447+05:30"
     },
     {
       "id": 5,
@@ -49,205 +49,205 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00616v1 Announce Type: new Abstract: Inference-time scaling enhances a model's reasoning by extending its chain-of-thought (CoT). However, existing approaches typically rely on a single policy trained with outcome-reward reinforcement learning (RL), which often suffers from long-horizon p",
-      "published_at": "2026-11-04T14:29:40.876804+05:30"
+      "published_at": "2026-11-04T22:36:08.394471+05:30"
     },
     {
       "id": 6,
+      "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+      "source": "Machine Learning",
+      "category": "Coding",
+      "summary": "Hey everyone— we’re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences. Here’s how it performed in our evaluations: FrontierScience Research: 38.3% pass rate vs. 33.3% for",
+      "published_at": "2026-11-04T22:36:08.394525+05:30"
+    },
+    {
+      "id": 7,
       "title": "Quoting Ted Sanders",
       "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
       "source": "Simon Willison's Weblog",
       "category": "Research",
       "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In gener",
-      "published_at": "2026-11-04T14:29:40.876839+05:30"
+      "published_at": "2026-11-04T22:36:08.394566+05:30"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
       "url": "https://arxiv.org/abs/2611.00244",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agenti",
-      "published_at": "2026-11-04T14:29:40.876852+05:30"
+      "published_at": "2026-11-04T22:36:08.394587+05:30"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
       "url": "https://arxiv.org/abs/2611.00450",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse wit",
-      "published_at": "2026-11-04T14:29:40.876867+05:30"
+      "published_at": "2026-11-04T22:36:08.394603+05:30"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "datasette-llm 0.1a9",
       "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needi",
-      "published_at": "2026-11-04T14:29:40.876871+05:30"
+      "published_at": "2026-11-04T22:36:08.394610+05:30"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Building a multiplayer game world with autonomous Fable-class models",
       "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massiv",
-      "published_at": "2026-11-04T14:29:40.876886+05:30"
+      "published_at": "2026-11-04T22:36:08.394637+05:30"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
       "url": "https://arxiv.org/abs/2303.12212",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and many other networks. This article proposes three new, general, hierarchical frameworks to deal with this task. The introduced",
-      "published_at": "2026-11-04T14:29:40.876904+05:30"
+      "published_at": "2026-11-04T22:36:08.394654+05:30"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
       "url": "https://arxiv.org/abs/2611.00359",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00359v1 Announce Type: new Abstract: AI \"humanizers\" rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We check whether numbers, dates, person and organizati",
-      "published_at": "2026-11-04T14:29:40.876955+05:30"
+      "published_at": "2026-11-04T22:36:08.394716+05:30"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries",
       "url": "https://arxiv.org/abs/2611.00420",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00420v1 Announce Type: new Abstract: Attribution graphs, an emerging tool in mechanistic interpretability, use transcoders to decompose language model computations into sparse interpretable features connected by causal edges. However, turning a graph into a safety-relevant insight require",
-      "published_at": "2026-11-04T14:29:40.876971+05:30"
+      "published_at": "2026-11-04T22:36:08.394729+05:30"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Dual-Axis Policy Entailment: A Benchmark for Policy-Change Reasoning",
       "url": "https://arxiv.org/abs/2611.00536",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00536v1 Announce Type: new Abstract: Whether a policy shifts domains and, by extension, continues, broadens, narrows, or reverses previous policy is of paramount importance to the study of public policy. We propose Dual-Axis Policy Entailment (DAPE), which evaluates an ordered pair of pol",
-      "published_at": "2026-11-04T14:29:40.876981+05:30"
+      "published_at": "2026-11-04T22:36:08.394743+05:30"
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments",
       "url": "https://arxiv.org/abs/2611.00597",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00597v1 Announce Type: new Abstract: Does eliciting five weighted estimates within a single response change how a language model responds to information? Across anchoring, hindsight, base-rate, conjunction, and status-quo/default tasks, we compare direct numerical answers with a multi-est",
-      "published_at": "2026-11-04T14:29:40.876995+05:30"
+      "published_at": "2026-11-04T22:36:08.394761+05:30"
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics",
       "url": "https://arxiv.org/abs/2611.00638",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00638v1 Announce Type: new Abstract: Electrochemistry is central to solving many modern-day challenges, including energy storage systems for a sustainable future, and its advancement relies heavily on the data from past findings. Existing automated pipelines are limited by text-only archi",
-      "published_at": "2026-11-04T14:29:40.877009+05:30"
+      "published_at": "2026-11-04T22:36:08.394777+05:30"
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
       "url": "https://latent.space/p/ainews-gemini-4-carbon/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-      "published_at": "2026-11-04T14:29:40.877023+05:30"
+      "published_at": "2026-11-04T22:36:08.394795+05:30"
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
       "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
-      "published_at": "2026-11-04T14:29:40.877030+05:30"
+      "published_at": "2026-11-04T22:36:08.394807+05:30"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "The U.S. Census Bureau and “Super Intelligence”",
       "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstra",
-      "published_at": "2026-11-04T14:29:40.877062+05:30"
+      "published_at": "2026-11-04T22:36:08.394855+05:30"
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "Fidelity Collapses with Table Size, Not Turn Count: Delivery Architecture in a Deployed Tool-Using Agent",
       "url": "https://arxiv.org/abs/2611.00442",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00442v1 Announce Type: new Abstract: When a multi-turn agent delivers a tool's structured records into the model's context and re-emits them each turn, every turn can corrupt data the tool computed correctly. We measure this in a production award-travel agent: two architectures over ident",
-      "published_at": "2026-11-04T14:29:40.877067+05:30"
+      "published_at": "2026-11-04T22:36:08.394863+05:30"
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "Spotting the Artificial: Dialogic Humor Improvisation in Humans and LLMs",
       "url": "https://arxiv.org/abs/2611.00492",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00492v1 Announce Type: new Abstract: We propose a methodology for investigating the differences between natural and synthetic language in a challenging setting: humorous improvisational dialogue. Our experimental setting compares human-produced comedy improvisations with the dialogues gen",
-      "published_at": "2026-11-04T14:29:40.877077+05:30"
+      "published_at": "2026-11-04T22:36:08.394877+05:30"
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?",
       "url": "https://arxiv.org/abs/2611.00515",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00515v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in dynamic financial trading, yet real-time trading benchmarks mainly evaluate agents by cumulative returns and risk-adjusted performance. Such outcome metrics cannot show whether trades are faithfully",
-      "published_at": "2026-11-04T14:29:40.877088+05:30"
+      "published_at": "2026-11-04T22:36:08.394892+05:30"
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "Saidzoda-Tajik-E5-Large: Fine-Tuning a 560M Embedder for Tajik Retrieval",
       "url": "https://arxiv.org/abs/2611.00592",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00592v1 Announce Type: new Abstract: Finding the passage that answers a question is the first step of most practical systems built on documents, and for Tajik we found no openly described model for it. We present Saidzoda-Tajik-E5-Large, a Tajik text embedder built from multilingual-e5-la",
-      "published_at": "2026-11-04T14:29:40.877131+05:30"
+      "published_at": "2026-11-04T22:36:08.394947+05:30"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
       "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
-      "published_at": "2026-11-04T14:29:40.877137+05:30"
+      "published_at": "2026-11-04T22:36:08.394956+05:30"
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
       "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "published_at": "2026-11-04T14:29:40.877141+05:30"
+      "published_at": "2026-11-04T22:36:08.394962+05:30"
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and inte",
-      "published_at": "2026-11-04T14:29:40.877148+05:30"
-    },
-    {
-      "id": 27,
-      "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "I’m the author of a new preprint looking at a fairly simple question: if the argument itself stays the same, does changing the claimed source change how an LLM evaluates it? I tested 20 arguments across 10 topics under four source conditions: relevant expert irrelevant expert non-expert no source Th",
-      "published_at": "2026-11-04T14:29:40.877165+05:30"
+      "published_at": "2026-11-04T22:36:08.394973+05:30"
     },
     {
       "id": 28,
@@ -255,8 +255,8 @@
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 175.7k stars · MDX — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "published_at": "2026-11-04T14:29:40.877178+05:30"
+      "summary": "⭐ 175.8k stars · MDX — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "published_at": "2026-11-04T22:36:08.394991+05:30"
     },
     {
       "id": 29,
@@ -265,7 +265,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering ",
-      "published_at": "2026-11-04T14:29:40.877189+05:30"
+      "published_at": "2026-11-04T22:36:08.395004+05:30"
     },
     {
       "id": 30,
@@ -274,7 +274,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00172v1 Announce Type: new Abstract: Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by modality: the communities develop largely in isolatio",
-      "published_at": "2026-11-04T14:29:40.877224+05:30"
+      "published_at": "2026-11-04T22:36:08.395064+05:30"
     },
     {
       "id": 31,
@@ -283,7 +283,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00300v1 Announce Type: new Abstract: Tell an LLM negotiator to be \"headstrong\" and it should hold firm on price, but does that instruction retain the same behavior in every language? To test this, we use identical buyer and seller instances of Gemini 3.6 Flash to negotiate the same 12 Cra",
-      "published_at": "2026-11-04T14:29:40.877238+05:30"
+      "published_at": "2026-11-04T22:36:08.395084+05:30"
     },
     {
       "id": 32,
@@ -292,7 +292,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00319v1 Announce Type: new Abstract: A child learns which words name which things from roughly 100 million words of input. Vision-language models trained at a comparable scale bind words to referents far less reliably, and we argue that part of the gap is structural: the usual next-token ",
-      "published_at": "2026-11-04T14:29:40.877244+05:30"
+      "published_at": "2026-11-04T22:36:08.395093+05:30"
     },
     {
       "id": 33,
@@ -301,7 +301,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00469v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to generate stories, but these stories struggle to reproduce engaging readerly dynamics, the evolving reader responses that shape narrative experience. To address this challenge, we propose a framework",
-      "published_at": "2026-11-04T14:29:40.877248+05:30"
+      "published_at": "2026-11-04T22:36:08.395099+05:30"
     },
     {
       "id": 34,
@@ -310,7 +310,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00555v1 Announce Type: new Abstract: Does the level of test-time processing effort affect a language model's computational capability? A formal grammar-lens benchmark method, derived from the theory of computation, generates novel data at specified levels, each successively more computati",
-      "published_at": "2026-11-04T14:29:40.877254+05:30"
+      "published_at": "2026-11-04T22:36:08.395108+05:30"
     },
     {
       "id": 35,
@@ -319,7 +319,7 @@
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "published_at": "2026-11-04T14:29:40.877261+05:30"
+      "published_at": "2026-11-04T22:36:08.395118+05:30"
     },
     {
       "id": 36,
@@ -327,8 +327,8 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 144.9k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "published_at": "2026-11-04T14:29:40.877267+05:30"
+      "summary": "⭐ 145.0k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "published_at": "2026-11-04T22:36:08.395127+05:30"
     },
     {
       "id": 37,
@@ -337,7 +337,7 @@
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-04T14:29:40.877274+05:30"
+      "published_at": "2026-11-04T22:36:08.395137+05:30"
     },
     {
       "id": 38,
@@ -346,7 +346,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reve",
-      "published_at": "2026-11-04T14:29:40.877279+05:30"
+      "published_at": "2026-11-04T22:36:08.395145+05:30"
     },
     {
       "id": 39,
@@ -355,7 +355,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: 100, 200, and 500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now la",
-      "published_at": "2026-11-04T14:29:40.877287+05:30"
+      "published_at": "2026-11-04T22:36:08.395156+05:30"
     },
     {
       "id": 40,
@@ -364,7 +364,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00579v1 Announce Type: new Abstract: Test-time search can improve structured planning, but when methods differ in prompts, post-processing, and selection, it is unclear what an observed gain should be attributed to. We study this question on DisasterBench, where models compose typed multi",
-      "published_at": "2026-11-04T14:29:40.877322+05:30"
+      "published_at": "2026-11-04T22:36:08.395199+05:30"
     },
     {
       "id": 41,
@@ -373,538 +373,538 @@
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was built t",
-      "published_at": "2026-11-04T14:29:40.877330+05:30"
+      "published_at": "2026-11-04T22:36:08.395210+05:30"
     },
     {
       "id": 42,
-      "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
-      "source": "Machine Learning",
-      "category": "Image",
-      "summary": "It was just before OpenAI started that I met Ilya, who you interviewed. One of the first things he said to me was — “Look. The models, they just want to learn. You have to understand this. The models, they just want to learn.” And it was a bit like a Zen Koan. I listened to this and I became enlight",
-      "published_at": "2026-11-04T14:29:40.877358+05:30"
-    },
-    {
-      "id": 43,
       "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "The paper claims text models align with image models faster when trained on &quot;good views&quot; (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. Its largest run used captions written by an image captioner, so image information could hav",
-      "published_at": "2026-11-04T14:29:40.877367+05:30"
+      "published_at": "2026-11-04T22:36:08.395223+05:30"
     },
     {
-      "id": 44,
+      "id": 43,
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 187.9k stars · Python — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "published_at": "2026-11-04T14:29:40.877373+05:30"
+      "published_at": "2026-11-04T22:36:08.395231+05:30"
     },
     {
-      "id": 45,
+      "id": 44,
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 160.4k stars · Python — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "published_at": "2026-11-04T14:29:40.877384+05:30"
+      "published_at": "2026-11-04T22:36:08.395247+05:30"
     },
     {
-      "id": 46,
+      "id": 45,
       "title": "HF Model: deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/models/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 5,148 likes · 187,260 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-04T14:29:40.877390+05:30"
+      "summary": "🔥 Trending on Hugging Face · 5,244 likes · 221,621 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-04T22:36:08.395255+05:30"
     },
     {
-      "id": 47,
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "source": "Ars Technica - All content",
-      "category": "LLMs",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "published_at": "2026-11-04T14:29:40.877401+05:30"
-    },
-    {
-      "id": 48,
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-11-04T14:29:40.877406+05:30"
-    },
-    {
-      "id": 49,
+      "id": 46,
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-04T14:29:40.877413+05:30"
+      "published_at": "2026-11-04T22:36:08.395266+05:30"
     },
     {
-      "id": 50,
+      "id": 47,
       "title": "October sponsors-only newsletter",
       "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for 100+/month subscripti",
-      "published_at": "2026-11-04T14:29:40.877420+05:30"
+      "published_at": "2026-11-04T22:36:08.395275+05:30"
     },
     {
-      "id": 51,
+      "id": 48,
       "title": "Queering the Audits: Community-Based Auditing of AI Harms to Queer Communities",
       "url": "https://arxiv.org/abs/2611.00345",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00345v1 Announce Type: new Abstract: AI systems embed majority-group defaults into training data, evaluation metrics, and category definitions, producing documented harms for queer communities including erasure, misclassification, and discrimination. Standard technical audits often rely o",
-      "published_at": "2026-11-04T14:29:40.877425+05:30"
+      "published_at": "2026-11-04T22:36:08.395283+05:30"
     },
     {
-      "id": 52,
+      "id": 49,
       "title": "Cross-Prompt Reuse of Entity-Replacement Responses",
       "url": "https://arxiv.org/abs/2611.00352",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.00352v1 Announce Type: new Abstract: With model weights fixed, we measure how much of an entity-replacement response transfers between English factual questions, beyond whether answers change. We add the hidden-state change from two source questions to a target question about the same ent",
-      "published_at": "2026-11-04T14:29:40.877439+05:30"
+      "published_at": "2026-11-04T22:36:08.395300+05:30"
     },
     {
-      "id": 53,
+      "id": 50,
       "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
       "url": "https://latent.space/p/opus55/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
-      "published_at": "2026-11-04T14:29:40.877449+05:30"
+      "published_at": "2026-11-04T22:36:08.395315+05:30"
     },
     {
-      "id": 54,
+      "id": 51,
       "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "Question to all the PhDs &amp; research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks! Here's the official Chinchilla paper, from the DeepMind website (&quot;Tra",
-      "published_at": "2026-11-04T14:29:40.877454+05:30"
+      "published_at": "2026-11-04T22:36:08.395321+05:30"
     },
     {
-      "id": 55,
+      "id": 52,
       "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by several",
-      "published_at": "2026-11-04T14:29:40.877457+05:30"
+      "published_at": "2026-11-04T22:36:08.395327+05:30"
     },
     {
-      "id": 56,
+      "id": 53,
       "title": "Anybody up for discussion on improvement of inference speed of Language Models[R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xmzu1x/anybody_up_for_discussion_on_improvement_of/",
       "source": "Machine Learning",
       "category": "Research",
       "summary": "What are the latest papers that are there in the space on inference architecture of llms, I would like to discuss with them on the approaches. Btw I have been doing work with llms for the last 2 months and I have gotten to know very new things. I read about the lunch table discussion of bell labs so",
-      "published_at": "2026-11-04T14:29:40.877473+05:30"
+      "published_at": "2026-11-04T22:36:08.395348+05:30"
     },
     {
-      "id": 57,
+      "id": 54,
       "title": "AI can read neural network weights. I wasn't ready for that. [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "Give a model a 17,253-parameter net as plain tokenized text and it works out the net plays Pac-Man. Astra, Opus 5.5 and Muse Spark 1.3 all got it, and Astra did it with minimal reasoning. Nobody writes essays about what specific weights do, so where does this skill come from? Either labs trained it ",
-      "published_at": "2026-11-04T14:29:40.877477+05:30"
+      "published_at": "2026-11-04T22:36:08.395354+05:30"
     },
     {
-      "id": 58,
-      "title": "LightMIS: Ultra-lightweight medical image segmentation for edge devices [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "Hi everyone, I am one of the authors of LightMIS, and I would like to share our work on 2D binary medical image segmentation. LightMIS has 131K parameters and aggregates multi-scale encoder features directly, without a learned stage-wise decoder. It achieves close observed modality-macro Dice and Io",
-      "published_at": "2026-11-04T14:29:40.877490+05:30"
-    },
-    {
-      "id": 59,
+      "id": 55,
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 428.6k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "published_at": "2026-11-04T14:29:40.877501+05:30"
+      "summary": "⭐ 430.0k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "published_at": "2026-11-04T22:36:08.395369+05:30"
     },
     {
-      "id": 60,
+      "id": 56,
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 312.1k stars · Shell — An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-11-04T14:29:40.877511+05:30"
+      "summary": "⭐ 312.3k stars · Shell — An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-11-04T22:36:08.395383+05:30"
     },
     {
-      "id": 61,
+      "id": 57,
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 260.4k stars · Python — The agent that grows with you",
-      "published_at": "2026-11-04T14:29:40.877519+05:30"
+      "summary": "⭐ 260.5k stars · Python — The agent that grows with you",
+      "published_at": "2026-11-04T22:36:08.395395+05:30"
     },
     {
-      "id": 62,
+      "id": 58,
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 198.4k stars · TypeScript — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "published_at": "2026-11-04T14:29:40.877529+05:30"
+      "summary": "⭐ 198.6k stars · TypeScript — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "published_at": "2026-11-04T22:36:08.395410+05:30"
     },
     {
-      "id": 63,
+      "id": 59,
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 149.0k stars · Python — The agent engineering platform.",
-      "published_at": "2026-11-04T14:29:40.877538+05:30"
+      "published_at": "2026-11-04T22:36:08.395422+05:30"
     },
     {
-      "id": 64,
+      "id": 60,
       "title": "HF Model: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "url": "https://huggingface.co/models/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 748 likes · 38,942 downloads · Task: automatic-speech-recognition",
-      "published_at": "2026-11-04T14:29:40.877547+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,455 likes · 44,939 downloads · Task: automatic-speech-recognition",
+      "published_at": "2026-11-04T22:36:08.395434+05:30"
     },
     {
-      "id": 65,
+      "id": 61,
       "title": "HF Model: LiquidAI/LFM3-1.7B",
       "url": "https://huggingface.co/models/LiquidAI/LFM3-1.7B",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 1,437 likes · 47,817 downloads · Task: text-generation",
-      "published_at": "2026-11-04T14:29:40.877554+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,470 likes · 54,959 downloads · Task: text-generation",
+      "published_at": "2026-11-04T22:36:08.395445+05:30"
     },
     {
-      "id": 66,
+      "id": 62,
       "title": "HF Model: mistralai/Mistral-Large-4-1T-A52B",
       "url": "https://huggingface.co/models/mistralai/Mistral-Large-4-1T-A52B",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 1,560 likes · 6,556 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-04T14:29:40.877559+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,581 likes · 8,200 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-04T22:36:08.395453+05:30"
     },
     {
-      "id": 67,
+      "id": 63,
       "title": "HF Model: speridlabs/idol",
       "url": "https://huggingface.co/models/speridlabs/idol",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 541 likes · 10,742 downloads · Task: image-to-3d",
-      "published_at": "2026-11-04T14:29:40.877564+05:30"
+      "summary": "🔥 Trending on Hugging Face · 583 likes · 14,613 downloads · Task: image-to-3d",
+      "published_at": "2026-11-04T22:36:08.395461+05:30"
     },
     {
-      "id": 68,
-      "title": "HF Model: Lightricks/LTX-2.5",
-      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
-      "source": "Hugging Face Blog",
-      "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 10,532 likes · 2,488,128 downloads · Task: image-to-video",
-      "published_at": "2026-11-04T14:29:40.877569+05:30"
-    },
-    {
-      "id": 69,
+      "id": 64,
       "title": "HF Model: Pika-Labs/Pika-H3-Flex",
       "url": "https://huggingface.co/models/Pika-Labs/Pika-H3-Flex",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 401 likes · 633 downloads · Task: image-to-video",
-      "published_at": "2026-11-04T14:29:40.877573+05:30"
+      "summary": "🔥 Trending on Hugging Face · 419 likes · 749 downloads · Task: image-to-video",
+      "published_at": "2026-11-04T22:36:08.395467+05:30"
     },
     {
-      "id": 70,
+      "id": 65,
+      "title": "HF Model: Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/models/Lightricks/LTX-2.5",
+      "source": "Hugging Face Blog",
+      "category": "Open Source",
+      "summary": "🔥 Trending on Hugging Face · 10,579 likes · 2,493,402 downloads · Task: image-to-video",
+      "published_at": "2026-11-04T22:36:08.395474+05:30"
+    },
+    {
+      "id": 66,
       "title": "HF Model: ccore/Qwen3.5-4B-3D-Coder",
       "url": "https://huggingface.co/models/ccore/Qwen3.5-4B-3D-Coder",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 621 likes · 91,123 downloads · Task: AI Model",
-      "published_at": "2026-11-04T14:29:40.877577+05:30"
+      "summary": "🔥 Trending on Hugging Face · 642 likes · 123,321 downloads · Task: AI Model",
+      "published_at": "2026-11-04T22:36:08.395480+05:30"
     },
     {
-      "id": 71,
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-11-04T14:29:40.877584+05:30"
-    },
-    {
-      "id": 72,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-11-04T14:29:40.877591+05:30"
-    },
-    {
-      "id": 73,
-      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-11-04T14:29:40.877594+05:30"
-    },
-    {
-      "id": 74,
-      "title": "There is no posttraining data commons",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "source": "Hacker News",
-      "category": "Products",
-      "summary": "Comments",
-      "published_at": "2026-11-04T14:29:40.877600+05:30"
-    },
-    {
-      "id": 75,
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Image",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
-      "published_at": "2026-11-04T14:29:40.877609+05:30"
-    },
-    {
-      "id": 76,
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "category": "Coding",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
-      "published_at": "2026-11-04T14:29:40.877616+05:30"
-    },
-    {
-      "id": 77,
+      "id": 67,
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Image",
       "summary": "The one-year-old startup is now valued at $300 million.",
-      "published_at": "2026-11-04T14:29:40.877622+05:30"
+      "published_at": "2026-11-04T22:36:08.395487+05:30"
     },
     {
-      "id": 78,
+      "id": 68,
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Image",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "published_at": "2026-11-04T22:36:08.395500+05:30"
+    },
+    {
+      "id": 69,
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Coding",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "published_at": "2026-11-04T22:36:08.395510+05:30"
+    },
+    {
+      "id": 70,
       "title": "Transformers Model Integration Contracts",
       "url": "https://huggingface.co/blog/transformers-mic",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-04T14:29:40.877629+05:30"
+      "published_at": "2026-11-04T22:36:08.395520+05:30"
     },
     {
-      "id": 79,
+      "id": 71,
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "source": "Hugging Face - Blog",
       "category": "Research",
       "summary": "No summary available.",
-      "published_at": "2026-11-04T14:29:40.877636+05:30"
+      "published_at": "2026-11-04T22:36:08.395530+05:30"
     },
     {
-      "id": 80,
+      "id": 72,
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "source": "Google DeepMind News",
       "category": "Research",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "published_at": "2026-11-04T14:29:40.877648+05:30"
+      "published_at": "2026-11-04T22:36:08.395546+05:30"
     },
     {
-      "id": 81,
+      "id": 73,
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-04T14:29:40.877655+05:30"
+      "published_at": "2026-11-04T22:36:08.395556+05:30"
     },
     {
-      "id": 82,
+      "id": 74,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "Hacker News",
+      "category": "Products",
+      "summary": "Comments",
+      "published_at": "2026-11-04T22:36:08.395567+05:30"
+    },
+    {
+      "id": 75,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "category": "Products",
+      "summary": "Comments",
+      "published_at": "2026-11-04T22:36:08.395579+05:30"
+    },
+    {
+      "id": 76,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hacker News",
+      "category": "Products",
+      "summary": "Comments",
+      "published_at": "2026-11-04T22:36:08.395589+05:30"
+    },
+    {
+      "id": 77,
       "title": "How We Took Over ChatGPT Accounts",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed",
-      "published_at": "2026-11-04T14:29:40.877669+05:30"
+      "published_at": "2026-11-04T22:36:08.395610+05:30"
     },
     {
-      "id": 83,
+      "id": 78,
       "title": "Quoting Ben Hylak",
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
       "source": "Simon Willison's Weblog",
       "category": "Chatbot/Assistant",
       "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: model-context-protocol, ",
-      "published_at": "2026-11-04T14:29:40.877683+05:30"
+      "published_at": "2026-11-04T22:36:08.395629+05:30"
     },
     {
-      "id": 84,
+      "id": 79,
       "title": "Quoting Terk Terkowitz",
       "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are ",
-      "published_at": "2026-11-04T14:29:40.877688+05:30"
+      "published_at": "2026-11-04T22:36:08.395637+05:30"
     },
     {
-      "id": 85,
+      "id": 80,
       "title": "Game Boy Color on My Conference Badge",
       "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on",
-      "published_at": "2026-11-04T14:29:40.877696+05:30"
+      "published_at": "2026-11-04T22:36:08.395648+05:30"
     },
     {
-      "id": 86,
+      "id": 81,
       "title": "Quoting Jason Koebler",
       "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
       "source": "Simon Willison's Weblog",
       "category": "Other",
       "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they ",
-      "published_at": "2026-11-04T14:29:40.877720+05:30"
+      "published_at": "2026-11-04T22:36:08.395678+05:30"
     },
     {
-      "id": 87,
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "published_at": "2026-11-04T14:29:40.877730+05:30"
-    },
-    {
-      "id": 88,
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "published_at": "2026-11-04T14:29:40.877746+05:30"
-    },
-    {
-      "id": 89,
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "url": "https://latent.space/p/arca/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
-      "published_at": "2026-11-04T14:29:40.877754+05:30"
-    },
-    {
-      "id": 90,
-      "title": "Why Agents Love Supabase",
-      "url": "https://latent.space/p/supabase/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
-      "published_at": "2026-11-04T14:29:40.877762+05:30"
-    },
-    {
-      "id": 91,
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "url": "https://latent.space/p/offline-coding/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
-      "published_at": "2026-11-04T14:29:40.877765+05:30"
-    },
-    {
-      "id": 92,
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
-      "published_at": "2026-11-04T14:29:40.877778+05:30"
-    },
-    {
-      "id": 93,
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "url": "https://latent.space/p/modal-d/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
-      "published_at": "2026-11-04T14:29:40.877789+05:30"
-    },
-    {
-      "id": 94,
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "The Big Hardening begins",
-      "published_at": "2026-11-04T14:29:40.877796+05:30"
-    },
-    {
-      "id": 95,
+      "id": 82,
       "title": "Gemini 4 Argon Is Not What I Expected",
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
       "source": "Two Minute Papers",
       "category": "Coding",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: https://x.com/thebugged",
-      "published_at": "2026-11-04T14:29:40.877810+05:30"
+      "published_at": "2026-11-04T22:36:08.395700+05:30"
     },
     {
-      "id": 96,
+      "id": 83,
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "source": "Two Minute Papers",
       "category": "Coding",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthr",
-      "published_at": "2026-11-04T14:29:40.877830+05:30"
+      "published_at": "2026-11-04T22:36:08.395729+05:30"
     },
     {
-      "id": 97,
+      "id": 84,
       "title": "Yes, Jev Is Insane, But There's A Catch",
       "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
       "source": "Two Minute Papers",
       "category": "Writing",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya http",
-      "published_at": "2026-11-04T14:29:40.877843+05:30"
+      "published_at": "2026-11-04T22:36:08.395749+05:30"
     },
     {
-      "id": 98,
+      "id": 85,
       "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
       "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
       "source": "Two Minute Papers",
       "category": "Coding",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos",
-      "published_at": "2026-11-04T14:29:40.877857+05:30"
+      "published_at": "2026-11-04T22:36:08.395771+05:30"
+    },
+    {
+      "id": 86,
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "published_at": "2026-11-04T22:36:08.395784+05:30"
+    },
+    {
+      "id": 87,
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+      "published_at": "2026-11-04T22:36:08.395805+05:30"
+    },
+    {
+      "id": 88,
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "url": "https://latent.space/p/arca/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+      "published_at": "2026-11-04T22:36:08.395817+05:30"
+    },
+    {
+      "id": 89,
+      "title": "Why Agents Love Supabase",
+      "url": "https://latent.space/p/supabase/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "published_at": "2026-11-04T22:36:08.395828+05:30"
+    },
+    {
+      "id": 90,
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "url": "https://latent.space/p/offline-coding/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "published_at": "2026-11-04T22:36:08.395833+05:30"
+    },
+    {
+      "id": 91,
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "published_at": "2026-11-04T22:36:08.395851+05:30"
+    },
+    {
+      "id": 92,
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "url": "https://latent.space/p/modal-d/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "published_at": "2026-11-04T22:36:08.395866+05:30"
+    },
+    {
+      "id": 93,
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "The Big Hardening begins",
+      "published_at": "2026-11-04T22:36:08.395877+05:30"
+    },
+    {
+      "id": 94,
+      "title": "A message to top tier conferences [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+      "source": "Machine Learning",
+      "category": "Coding",
+      "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that &quot;AI cheaters&quot; didn't even read their own paper before presentation! For example, a guy couldn't even answer the question of how he represented knowledge gra",
+      "published_at": "2026-11-04T22:36:08.395903+05:30"
+    },
+    {
+      "id": 95,
+      "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
+      "source": "Machine Learning",
+      "category": "Coding",
+      "summary": "Do looped transformers, which reuse the same weights at every iteration, also save HBM traffic? In my new post I cover the looped architecture (Huginn), then model and measure its performance on a B200: how much data each iteration reads from memory, how long it takes, and why the shared weights usu",
+      "published_at": "2026-11-04T22:36:08.395923+05:30"
+    },
+    {
+      "id": 96,
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Coding",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "published_at": "2026-11-04T22:36:08.395931+05:30"
+    },
+    {
+      "id": 97,
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Image",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "published_at": "2026-11-04T22:36:08.395938+05:30"
+    },
+    {
+      "id": 98,
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Audio",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "published_at": "2026-11-04T22:36:08.395955+05:30"
     },
     {
       "id": 99,
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "source": "AI | The Verge",
-      "category": "Research",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a pres",
-      "published_at": "2026-11-04T14:29:40.877870+05:30"
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Other",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "published_at": "2026-11-04T22:36:08.395986+05:30"
     },
     {
       "id": 100,
-      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "source": "AI | The Verge",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "Artificial intelligence – MIT Technology Review",
       "category": "Research",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will ",
-      "published_at": "2026-11-04T14:29:40.877885+05:30"
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
+      "published_at": "2026-11-04T22:36:08.396010+05:30"
     }
   ]
 }
