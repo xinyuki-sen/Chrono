@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T02:52:56.359387+05:30",
+  "last_updated": "2026-11-06T07:34:24.932238+05:30",
   "top_pick_ids": [
     1,
     2,
@@ -13,7 +13,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05771v1 Announce Type: new Abstract: This study investigates the authorship impersonation capacity of six widely used large language models (LLMs): Gemini 3 Pro, Claude Opus, GPT 5.2, GPT 5.2 Pro, DeepSeek 3.2, and Grok 4.1 Fast. The evaluation was conducted using short product review tex",
-      "published_at": "2026-11-06T02:52:56.357969+05:30"
+      "published_at": "2026-11-06T07:34:24.930519+05:30"
     },
     {
       "id": 2,
@@ -22,34 +22,34 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05814v1 Announce Type: new Abstract: Large language models increasingly automate complex tasks, but human decision capacity does not scale with their capabilities. In many applications, humans remain essential for providing private context, authority, or judgments unavailable to the agent",
-      "published_at": "2026-11-06T02:52:56.358017+05:30"
+      "published_at": "2026-11-06T07:34:24.930572+05:30"
     },
     {
       "id": 3,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Simon Willison's Weblog",
-      "category": "Writing",
-      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particul",
-      "published_at": "2026-11-06T02:52:56.358067+05:30"
-    },
-    {
-      "id": 4,
-      "title": "llm 0.37",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
-      "source": "Simon Willison's Weblog",
-      "category": "Writing",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models tha",
-      "published_at": "2026-11-06T02:52:56.358074+05:30"
-    },
-    {
-      "id": 5,
       "title": "TSFM Meets LLM: Context as Covariates",
       "url": "https://arxiv.org/abs/2611.05515",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05515v1 Announce Type: new Abstract: Textual information is ubiquitous in real-world time series datasets, appearing as news, reports, and annotations that hold key predictive signals not deducible from numerical history alone. Large Language Models (LLMs) interpret text but lack numerica",
-      "published_at": "2026-11-06T02:52:56.358087+05:30"
+      "published_at": "2026-11-06T07:34:24.930590+05:30"
+    },
+    {
+      "id": 4,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Simon Willison's Weblog",
+      "category": "Writing",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particul",
+      "published_at": "2026-11-06T07:34:24.930649+05:30"
+    },
+    {
+      "id": 5,
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "Simon Willison's Weblog",
+      "category": "Writing",
+      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models tha",
+      "published_at": "2026-11-06T07:34:24.930657+05:30"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "Hey everyone— we’re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences. Here’s how it performed in our evaluations: FrontierScience Research: 38.3% pass rate vs. 33.3% for",
-      "published_at": "2026-11-06T02:52:56.358131+05:30"
+      "published_at": "2026-11-06T07:34:24.930710+05:30"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and ",
-      "published_at": "2026-11-06T02:52:56.358148+05:30"
+      "published_at": "2026-11-06T07:34:24.930728+05:30"
     },
     {
       "id": 8,
@@ -76,7 +76,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge work: many rely on synthetic data or isolated tasks, missing t",
-      "published_at": "2026-11-06T02:52:56.358162+05:30"
+      "published_at": "2026-11-06T07:34:24.930745+05:30"
     },
     {
       "id": 9,
@@ -85,7 +85,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05548v1 Announce Type: new Abstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' model with specific tools creates a complete data science project including downloading, cleaning, and an",
-      "published_at": "2026-11-06T02:52:56.358168+05:30"
+      "published_at": "2026-11-06T07:34:24.930752+05:30"
     },
     {
       "id": 10,
@@ -94,7 +94,7 @@
       "source": "Simon Willison's Weblog",
       "category": "Research",
       "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In gener",
-      "published_at": "2026-11-06T02:52:56.358212+05:30"
+      "published_at": "2026-11-06T07:34:24.930799+05:30"
     },
     {
       "id": 11,
@@ -103,7 +103,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05384v1 Announce Type: new Abstract: Generalisability is a central question for deep neural networks, including the cross-language generalisation of speaker embeddings. This study examined whether deep neural speaker embeddings generalise across languages and how such generalisation relat",
-      "published_at": "2026-11-06T02:52:56.358226+05:30"
+      "published_at": "2026-11-06T07:34:24.930813+05:30"
     },
     {
       "id": 12,
@@ -112,7 +112,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05517v1 Announce Type: new Abstract: For humans, referential disambiguation is a collaborative process involving clarification questions asked when they will meaningfully change the outcome. However, large language models (LLMs) have been shown to be biased toward premature answering, pre",
-      "published_at": "2026-11-06T02:52:56.358264+05:30"
+      "published_at": "2026-11-06T07:34:24.930855+05:30"
     },
     {
       "id": 13,
@@ -121,7 +121,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05803v1 Announce Type: new Abstract: How much phonological knowledge do language models (LMs) possess about Chinese characters, and how is this knowledge represented and used? We introduce PinyinBench, a controlled benchmark covering homophones, phonological features (initials, finals, an",
-      "published_at": "2026-11-06T02:52:56.358287+05:30"
+      "published_at": "2026-11-06T07:34:24.930881+05:30"
     },
     {
       "id": 14,
@@ -130,7 +130,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05862v1 Announce Type: new Abstract: Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address these obstacles, we introduce CARTBench for CART (Comp",
-      "published_at": "2026-11-06T02:52:56.358298+05:30"
+      "published_at": "2026-11-06T07:34:24.930894+05:30"
     },
     {
       "id": 15,
@@ -139,7 +139,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures ",
-      "published_at": "2026-11-06T02:52:56.358321+05:30"
+      "published_at": "2026-11-06T07:34:24.930919+05:30"
     },
     {
       "id": 16,
@@ -148,70 +148,70 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget",
-      "published_at": "2026-11-06T02:52:56.358347+05:30"
+      "published_at": "2026-11-06T07:34:24.930967+05:30"
     },
     {
       "id": 17,
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "source": "Simon Willison's Weblog",
-      "category": "Writing",
-      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needi",
-      "published_at": "2026-11-06T02:52:56.358352+05:30"
-    },
-    {
-      "id": 18,
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massiv",
-      "published_at": "2026-11-06T02:52:56.358367+05:30"
-    },
-    {
-      "id": 19,
       "title": "Exploring the Privacy--Size Tradeoff for Differentially Private Self-Attentive Variational Autoencoders",
       "url": "https://arxiv.org/abs/2611.05582",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05582v1 Announce Type: new Abstract: Data tends to be most useful when it is shared, and the data most worth sharing is often the data that privacy obligations restrict. Synthetic data from a generator trained under differential privacy (DP) is one way to reconcile the two, but its utilit",
-      "published_at": "2026-11-06T02:52:56.358375+05:30"
+      "published_at": "2026-11-06T07:34:24.930979+05:30"
     },
     {
-      "id": 20,
+      "id": 18,
       "title": "Data-Efficient Scaling-Law Discovery for Recommendation Systems via Coupled Hyperparameter Scaling",
       "url": "https://arxiv.org/abs/2611.05643",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05643v1 Announce Type: new Abstract: Large-scale ranking and recommendation models of Web platforms benefit from increased compute much as large language models do, and their scaling behavior is broadly power-law in form. Yet ranking models have heterogeneous architectures which makes the",
-      "published_at": "2026-11-06T02:52:56.358414+05:30"
+      "published_at": "2026-11-06T07:34:24.931023+05:30"
+    },
+    {
+      "id": 19,
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "category": "Writing",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needi",
+      "published_at": "2026-11-06T07:34:24.931029+05:30"
+    },
+    {
+      "id": 20,
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massiv",
+      "published_at": "2026-11-06T07:34:24.931047+05:30"
     },
     {
       "id": 21,
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-      "published_at": "2026-11-06T02:52:56.358430+05:30"
-    },
-    {
-      "id": 22,
-      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
-      "published_at": "2026-11-06T02:52:56.358439+05:30"
-    },
-    {
-      "id": 23,
       "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops",
-      "published_at": "2026-11-06T02:52:56.358452+05:30"
+      "published_at": "2026-11-06T07:34:24.931063+05:30"
+    },
+    {
+      "id": 22,
+      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+      "published_at": "2026-11-06T07:34:24.931082+05:30"
+    },
+    {
+      "id": 23,
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
+      "published_at": "2026-11-06T07:34:24.931094+05:30"
     },
     {
       "id": 24,
@@ -220,7 +220,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05381v1 Announce Type: new Abstract: Legislative hearings are distinct communication events with their own human recognizable structure and logic, yet they have been analyzed as distinct phenomena beyond their transcripts. Understanding legislative hearings at a deeper level is a major st",
-      "published_at": "2026-11-06T02:52:56.358459+05:30"
+      "published_at": "2026-11-06T07:34:24.931103+05:30"
     },
     {
       "id": 25,
@@ -229,7 +229,7 @@
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05596v1 Announce Type: new Abstract: Different retrievers exist for retrieval-augmented generation, yet none performs best for all queries. Therefore, the key question is: given a query and retrieved passages from different retrievers, which one is most suited for that query? Existing rou",
-      "published_at": "2026-11-06T02:52:56.358471+05:30"
+      "published_at": "2026-11-06T07:34:24.931118+05:30"
     },
     {
       "id": 26,
@@ -238,7 +238,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such sys",
-      "published_at": "2026-11-06T02:52:56.358485+05:30"
+      "published_at": "2026-11-06T07:34:24.931134+05:30"
     },
     {
       "id": 27,
@@ -247,7 +247,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles,",
-      "published_at": "2026-11-06T02:52:56.358495+05:30"
+      "published_at": "2026-11-06T07:34:24.931147+05:30"
     },
     {
       "id": 28,
@@ -256,7 +256,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05581v1 Announce Type: new Abstract: Real-world vision is dynamic and scene-rich, while EEG and fMRI resolve it at complementary temporal and spatial scales. Most neural decoding systems, however, align one modality in isolation and mostly against static images or short clips. We study th",
-      "published_at": "2026-11-06T02:52:56.358505+05:30"
+      "published_at": "2026-11-06T07:34:24.931158+05:30"
     },
     {
       "id": 29,
@@ -265,7 +265,7 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should ``verified'' mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses three distinct properties measured in a conditional audit sequence: verifier acceptance (Surface A), ",
-      "published_at": "2026-11-06T02:52:56.358514+05:30"
+      "published_at": "2026-11-06T07:34:24.931170+05:30"
     },
     {
       "id": 30,
@@ -274,268 +274,268 @@
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet existing coding benchmarks evaluate single, fully specified tasks, and many are near saturation. We ",
-      "published_at": "2026-11-06T02:52:56.358518+05:30"
+      "published_at": "2026-11-06T07:34:24.931175+05:30"
     },
     {
       "id": 31,
-      "title": "datasette-llm 0.1a10",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "source": "Simon Willison's Weblog",
-      "category": "Research",
-      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette, llm",
-      "published_at": "2026-11-06T02:52:56.358530+05:30"
-    },
-    {
-      "id": 32,
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstra",
-      "published_at": "2026-11-06T02:52:56.358569+05:30"
-    },
-    {
-      "id": 33,
       "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
       "url": "https://arxiv.org/abs/2611.05506",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05506v1 Announce Type: new Abstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotation cost linearly with the number of objectives. Active prefer",
-      "published_at": "2026-11-06T02:52:56.358584+05:30"
+      "published_at": "2026-11-06T07:34:24.931191+05:30"
     },
     {
-      "id": 34,
+      "id": 32,
       "title": "Recasting Visual Language Models as EEG Foundation Models for Clinical Neurodiagnostics",
       "url": "https://arxiv.org/abs/2611.05538",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05538v1 Announce Type: new Abstract: Historically automated electroencephalography (EEG) systems was done using task-specific supervised models trained on purposely annotated data. A more recent modeling paradigm relies on creating a unified representation, or a 'foundation model', for mu",
-      "published_at": "2026-11-06T02:52:56.358618+05:30"
+      "published_at": "2026-11-06T07:34:24.931229+05:30"
     },
     {
-      "id": 35,
+      "id": 33,
       "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
       "url": "https://arxiv.org/abs/2611.05546",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05546v1 Announce Type: new Abstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasingly ",
-      "published_at": "2026-11-06T02:52:56.358639+05:30"
+      "published_at": "2026-11-06T07:34:24.931254+05:30"
     },
     {
-      "id": 36,
+      "id": 34,
       "title": "C-GRPO: Conformal Group Relative Policy Optimization",
       "url": "https://arxiv.org/abs/2611.05591",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05591v1 Announce Type: new Abstract: Reasoning-oriented language model training increasingly relies on multiple on-policy rollouts, but standard Group Relative Policy Optimization (GRPO) uses a fixed group size, wasting compute on easy prompts and under-exploring hard ones. Existing adapt",
-      "published_at": "2026-11-06T02:52:56.358649+05:30"
+      "published_at": "2026-11-06T07:34:24.931266+05:30"
+    },
+    {
+      "id": 35,
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "category": "Research",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette, llm",
+      "published_at": "2026-11-06T07:34:24.931281+05:30"
+    },
+    {
+      "id": 36,
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstra",
+      "published_at": "2026-11-06T07:34:24.931329+05:30"
     },
     {
       "id": 37,
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
-      "published_at": "2026-11-06T02:52:56.358657+05:30"
-    },
-    {
-      "id": 38,
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "published_at": "2026-11-06T02:52:56.358662+05:30"
-    },
-    {
-      "id": 39,
       "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've read those. This handbook is for people who have trained a dense model and want to train an MoE next",
-      "published_at": "2026-11-06T02:52:56.358677+05:30"
+      "published_at": "2026-11-06T07:34:24.931348+05:30"
+    },
+    {
+      "id": 38,
+      "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+      "source": "Machine Learning",
+      "category": "Writing",
+      "summary": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end backpropagation",
+      "published_at": "2026-11-06T07:34:24.931381+05:30"
+    },
+    {
+      "id": 39,
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+      "published_at": "2026-11-06T07:34:24.931390+05:30"
     },
     {
       "id": 40,
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "published_at": "2026-11-06T07:34:24.931397+05:30"
+    },
+    {
+      "id": 41,
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 175.9k stars · MDX — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "published_at": "2026-11-06T02:52:56.358692+05:30"
+      "published_at": "2026-11-06T07:34:24.931416+05:30"
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "CCDWIKI: Decoupling Case Formulation from Response Generation in Longitudinal CBT Dialogue",
       "url": "https://arxiv.org/abs/2611.05383",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05383v1 Announce Type: new Abstract: Cognitive Behavioral Therapy (CBT) demands more than empathic validation, requiring instead a structured formulation of the interplay among situations, automatic thoughts, emotions, and behaviors. Therapists formalize this interplay through a Cognitive",
-      "published_at": "2026-11-06T02:52:56.358703+05:30"
+      "published_at": "2026-11-06T07:34:24.931428+05:30"
     },
     {
-      "id": 42,
+      "id": 43,
       "title": "Rewrite, Then Veto: Rewriter-Agnostic Edit Gating for LLM-Based Post-OCR Correction",
       "url": "https://arxiv.org/abs/2611.05539",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05539v1 Announce Type: new Abstract: LLMs can repair noisy OCR transcripts of historical documents, but they also change text that was already correct. We propose EditVeto, a veto gate placed after a full-context LLM rewrite. The rewrite is character-aligned to the OCR input, its differen",
-      "published_at": "2026-11-06T02:52:56.358723+05:30"
+      "published_at": "2026-11-06T07:34:24.931452+05:30"
     },
     {
-      "id": 43,
+      "id": 44,
       "title": "Cognitive Bias Signatures in Search-Equipped LLM Agents: A Stage-Resolved Analysis",
       "url": "https://arxiv.org/abs/2611.05720",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05720v1 Announce Type: new Abstract: Search can help LLM agents correct mistakes, but their starting conditions may shape which evidence they find and use. Drawing on cognitive-bias paradigms, we develop a controlled search harness to examine result order, records of prior work, and initi",
-      "published_at": "2026-11-06T02:52:56.358735+05:30"
+      "published_at": "2026-11-06T07:34:24.931467+05:30"
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "Matching the Training-Time Weight Rule in Inference-Time Expert Deactivation",
       "url": "https://arxiv.org/abs/2611.05804",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05804v1 Announce Type: new Abstract: Expert deactivation at inference time changes both token routing and expert weights, and its effect on performance depends on how these changes are implemented. We compare removal, freezing, remaining-expert renormalization, and unnormalized re-routing",
-      "published_at": "2026-11-06T02:52:56.358748+05:30"
+      "published_at": "2026-11-06T07:34:24.931481+05:30"
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "TandemBench: Benchmarking Decision Models for Multi-Agent Collaboration",
       "url": "https://arxiv.org/abs/2611.05827",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05827v1 Announce Type: new Abstract: Decision models choose among predefined options in tasks such as routing and action selection. In multi-agent collaboration, a decision determines how members divide work, exchange resources, and act in parallel. We introduce TandemBench, a benchmark o",
-      "published_at": "2026-11-06T02:52:56.358757+05:30"
+      "published_at": "2026-11-06T07:34:24.931493+05:30"
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "When Does Better Confidence Improve a Knowledge-Graph Audit?",
       "url": "https://arxiv.org/abs/2611.05877",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05877v1 Announce Type: new Abstract: Confidence estimates guide human review in LLM-built knowledge graphs, but better error prediction can yield little improvement in an audit. We study this gap through repairability, selection headroom and label validity. Modelling non-adaptive auditing",
-      "published_at": "2026-11-06T02:52:56.358786+05:30"
+      "published_at": "2026-11-06T07:34:24.931507+05:30"
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
       "url": "https://arxiv.org/abs/2611.05390",
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditiona",
-      "published_at": "2026-11-06T02:52:56.358801+05:30"
+      "published_at": "2026-11-06T07:34:24.931522+05:30"
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
       "url": "https://arxiv.org/abs/2611.05524",
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction that e",
-      "published_at": "2026-11-06T02:52:56.358813+05:30"
+      "published_at": "2026-11-06T07:34:24.931536+05:30"
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
       "url": "https://arxiv.org/abs/2611.05586",
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05586v1 Announce Type: new Abstract: As autonomous AI agents enter permissionless onchain markets, selecting new service providers remains a core challenge. Existing reputation systems depend on scarce resources like human curation, identity credentials, or voluntary reviews, while naive ",
-      "published_at": "2026-11-06T02:52:56.358824+05:30"
+      "published_at": "2026-11-06T07:34:24.931548+05:30"
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "Hybrid Spark: Adaptive Speculative Decoding That Lets the Content Choose the Drafter",
       "url": "https://arxiv.org/abs/2611.05611",
       "source": "cs.AI updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05611v1 Announce Type: new Abstract: Speculative decoding (SD) speeds up large language model (LLM) serving, but its gain depends on the workload's shape, such as batch size and context length, and on its content. A model-based drafter proposes a short block on any content, while a model-",
-      "published_at": "2026-11-06T02:52:56.358830+05:30"
-    },
-    {
-      "id": 51,
-      "title": "datasette-apps 0.3a0",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration: Apps can now be tagged in Datasette Age",
-      "published_at": "2026-11-06T02:52:56.358839+05:30"
+      "published_at": "2026-11-06T07:34:24.931555+05:30"
     },
     {
       "id": 52,
-      "title": "GitHub Octoverse 2026",
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering ",
-      "published_at": "2026-11-06T02:52:56.358850+05:30"
-    },
-    {
-      "id": 53,
       "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
       "url": "https://arxiv.org/abs/2611.05442",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05442v1 Announce Type: new Abstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandw",
-      "published_at": "2026-11-06T02:52:56.358865+05:30"
+      "published_at": "2026-11-06T07:34:24.931573+05:30"
     },
     {
-      "id": 54,
+      "id": 53,
       "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
       "url": "https://arxiv.org/abs/2611.05609",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05609v1 Announce Type: new Abstract: Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers. Although prior work reports near-perfect in-distribution (IND) distillation performance, we find that this can mask inc",
-      "published_at": "2026-11-06T02:52:56.358878+05:30"
+      "published_at": "2026-11-06T07:34:24.931588+05:30"
     },
     {
-      "id": 55,
+      "id": 54,
       "title": "LACS: Distribution-Sensitive Label-Agnostic Confidence Selection for Dynamic Data Pruning",
       "url": "https://arxiv.org/abs/2611.05616",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05616v1 Announce Type: new Abstract: Training on large datasets motivates selecting which examples receive expensive training computation. Fixed quotas determine the amount of pruning in advance, while absolute confidence cutoffs depend on the score scale. We study a population-relative a",
-      "published_at": "2026-11-06T02:52:56.358897+05:30"
+      "published_at": "2026-11-06T07:34:24.931610+05:30"
+    },
+    {
+      "id": 55,
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration: Apps can now be tagged in Datasette Age",
+      "published_at": "2026-11-06T07:34:24.931621+05:30"
     },
     {
       "id": 56,
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering ",
+      "published_at": "2026-11-06T07:34:24.931633+05:30"
+    },
+    {
+      "id": 57,
       "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
       "url": "https://latent.space/p/elorian/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "published_at": "2026-11-06T02:52:56.358905+05:30"
+      "published_at": "2026-11-06T07:34:24.931643+05:30"
     },
     {
-      "id": 57,
+      "id": 58,
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 145.2k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "published_at": "2026-11-06T02:52:56.358912+05:30"
+      "published_at": "2026-11-06T07:34:24.931652+05:30"
     },
     {
-      "id": 58,
+      "id": 59,
       "title": "Open source AI is booming. Hugging Face explains who profits.",
       "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Image",
       "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-      "published_at": "2026-11-06T02:52:56.358921+05:30"
-    },
-    {
-      "id": 59,
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "source": "AI | The Verge",
-      "category": "Other",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, ",
-      "published_at": "2026-11-06T02:52:56.358939+05:30"
+      "published_at": "2026-11-06T07:34:24.931663+05:30"
     },
     {
       "id": 60,
@@ -544,178 +544,178 @@
       "source": "Ars Technica - All content",
       "category": "LLMs",
       "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-      "published_at": "2026-11-06T02:52:56.358944+05:30"
+      "published_at": "2026-11-06T07:34:24.931669+05:30"
     },
     {
       "id": 61,
-      "title": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
-      "url": "https://arxiv.org/abs/2611.05386",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05386v1 Announce Type: new Abstract: Small Language Models (SLMs) are increasingly deployed on consumer-grade hardware, yet their ability to preserve information across progressively longer contexts remains insufficiently understood. Existing benchmarks primarily evaluate retrieval-orient",
-      "published_at": "2026-11-06T02:52:56.358960+05:30"
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "AI | The Verge",
+      "category": "Other",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, ",
+      "published_at": "2026-11-06T07:34:24.931690+05:30"
     },
     {
       "id": 62,
-      "title": "Prospective Memory for Proactive LLM Agents",
-      "url": "https://arxiv.org/abs/2611.05731",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05731v1 Announce Type: new Abstract: Most memory systems for LLM agents are retrospective, preserving and retrieving past information to inform current decisions. Proactive agents, however, also require prospective memory: retaining future-directed intentions and realizing them when appro",
-      "published_at": "2026-11-06T02:52:56.358974+05:30"
-    },
-    {
-      "id": 63,
       "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
       "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
       "source": "Hacker News",
       "category": "Products",
       "summary": "Comments",
-      "published_at": "2026-11-06T02:52:56.358983+05:30"
+      "published_at": "2026-11-06T07:34:24.931700+05:30"
     },
     {
-      "id": 64,
+      "id": 63,
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "url": "https://github.com/rivet-dev/rivet",
       "source": "Hacker News",
       "category": "Products",
       "summary": "Comments",
-      "published_at": "2026-11-06T02:52:56.358993+05:30"
+      "published_at": "2026-11-06T07:34:24.931713+05:30"
+    },
+    {
+      "id": 64,
+      "title": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.05386",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05386v1 Announce Type: new Abstract: Small Language Models (SLMs) are increasingly deployed on consumer-grade hardware, yet their ability to preserve information across progressively longer contexts remains insufficiently understood. Existing benchmarks primarily evaluate retrieval-orient",
+      "published_at": "2026-11-06T07:34:24.931744+05:30"
     },
     {
       "id": 65,
-      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-      "url": "https://arxiv.org/abs/2611.05450",
-      "source": "cs.AI updates on arXiv.org",
+      "title": "Prospective Memory for Proactive LLM Agents",
+      "url": "https://arxiv.org/abs/2611.05731",
+      "source": "cs.CL updates on arXiv.org",
       "category": "Research",
-      "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn across tasks, and keep tha",
-      "published_at": "2026-11-06T02:52:56.359007+05:30"
+      "summary": "arXiv:2611.05731v1 Announce Type: new Abstract: Most memory systems for LLM agents are retrospective, preserving and retrieving past information to inform current decisions. Proactive agents, however, also require prospective memory: retaining future-directed intentions and realizing them when appro",
+      "published_at": "2026-11-06T07:34:24.931761+05:30"
     },
     {
       "id": 66,
-      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
-      "url": "https://arxiv.org/abs/2611.05542",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and business constraints. Existing non-autoregressive (NAR) approaches enable efficient page generation but ty",
-      "published_at": "2026-11-06T02:52:56.359014+05:30"
-    },
-    {
-      "id": 67,
-      "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
-      "url": "https://arxiv.org/abs/2611.05551",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05551v1 Announce Type: new Abstract: Virtual trials use routinely collected clinical data to evaluate treatment strategies, but translating a study protocol into an executable analysis requires determining how clinical concepts and study requirements should be represented in the available",
-      "published_at": "2026-11-06T02:52:56.359026+05:30"
-    },
-    {
-      "id": 68,
-      "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
-      "url": "https://arxiv.org/abs/2611.05556",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge's bias. Judge pools mix judges of very different reliability, while the human-labeled sets that validate them ",
-      "published_at": "2026-11-06T02:52:56.359038+05:30"
-    },
-    {
-      "id": 69,
-      "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2611.05632",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to ",
-      "published_at": "2026-11-06T02:52:56.359052+05:30"
-    },
-    {
-      "id": 70,
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-06T02:52:56.359060+05:30"
+      "published_at": "2026-11-06T07:34:24.931771+05:30"
+    },
+    {
+      "id": 67,
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "url": "https://arxiv.org/abs/2611.05450",
+      "source": "cs.AI updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn across tasks, and keep tha",
+      "published_at": "2026-11-06T07:34:24.931788+05:30"
+    },
+    {
+      "id": 68,
+      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+      "url": "https://arxiv.org/abs/2611.05542",
+      "source": "cs.AI updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and business constraints. Existing non-autoregressive (NAR) approaches enable efficient page generation but ty",
+      "published_at": "2026-11-06T07:34:24.931797+05:30"
+    },
+    {
+      "id": 69,
+      "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+      "url": "https://arxiv.org/abs/2611.05551",
+      "source": "cs.AI updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05551v1 Announce Type: new Abstract: Virtual trials use routinely collected clinical data to evaluate treatment strategies, but translating a study protocol into an executable analysis requires determining how clinical concepts and study requirements should be represented in the available",
+      "published_at": "2026-11-06T07:34:24.931811+05:30"
+    },
+    {
+      "id": 70,
+      "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
+      "url": "https://arxiv.org/abs/2611.05556",
+      "source": "cs.AI updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge's bias. Judge pools mix judges of very different reliability, while the human-labeled sets that validate them ",
+      "published_at": "2026-11-06T07:34:24.931825+05:30"
     },
     {
       "id": 71,
-      "title": "datasette-agent 0.5a0",
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a ",
-      "published_at": "2026-11-06T02:52:56.359068+05:30"
+      "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+      "url": "https://arxiv.org/abs/2611.05632",
+      "source": "cs.AI updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to ",
+      "published_at": "2026-11-06T07:34:24.931842+05:30"
     },
     {
       "id": 72,
-      "title": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "source": "Simon Willison's Weblog",
-      "category": "Writing",
-      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reve",
-      "published_at": "2026-11-06T02:52:56.359074+05:30"
-    },
-    {
-      "id": 73,
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: 100, 200, and 500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now la",
-      "published_at": "2026-11-06T02:52:56.359084+05:30"
-    },
-    {
-      "id": 74,
       "title": "Learning Implicit Solves for Dynamic Simulations",
       "url": "https://arxiv.org/abs/2611.05439",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05439v1 Announce Type: new Abstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a ",
-      "published_at": "2026-11-06T02:52:56.359093+05:30"
+      "published_at": "2026-11-06T07:34:24.931853+05:30"
     },
     {
-      "id": 75,
+      "id": 73,
       "title": "Support Vector Machines Directly Minimise KL Divergence",
       "url": "https://arxiv.org/abs/2611.05557",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05557v1 Announce Type: new Abstract: Support vector machines (SVMs) are fundamentally grounded in geometric margin maximisation and currently lack a mainstream probabilistic interpretation. This keeps them theoretically isolated from probabilistic machine learning models that are naturall",
-      "published_at": "2026-11-06T02:52:56.359104+05:30"
+      "published_at": "2026-11-06T07:34:24.931866+05:30"
     },
     {
-      "id": 76,
+      "id": 74,
       "title": "Readable Is Not Steerable: Pre-Registered Tests of Physical Structure in Learned Fluid Representations",
       "url": "https://arxiv.org/abs/2611.05577",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05577v1 Announce Type: new Abstract: Self-supervised world models are often said to organize their latents around physical quantities. We test this on 2D decaying Navier-Stokes flow in three pre-registered studies, each tested once on held-out data. In Study 1, a joint-embedding predictiv",
-      "published_at": "2026-11-06T02:52:56.359116+05:30"
+      "published_at": "2026-11-06T07:34:24.931879+05:30"
     },
     {
-      "id": 77,
+      "id": 75,
       "title": "When Are Two SAE Latents the Same Feature?",
       "url": "https://arxiv.org/abs/2611.05655",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05655v1 Announce Type: new Abstract: Comparing sparse autoencoders (SAEs) requires connecting feature correspondence, differences between whole dictionaries, and uncertainty from finite evaluation data. We develop a framework that connects these tasks through an energy-weighted optimal-tr",
-      "published_at": "2026-11-06T02:52:56.359123+05:30"
+      "published_at": "2026-11-06T07:34:24.931888+05:30"
+    },
+    {
+      "id": 76,
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a ",
+      "published_at": "2026-11-06T07:34:24.931898+05:30"
+    },
+    {
+      "id": 77,
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "Simon Willison's Weblog",
+      "category": "Writing",
+      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reve",
+      "published_at": "2026-11-06T07:34:24.931905+05:30"
     },
     {
       "id": 78,
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: 100, 200, and 500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now la",
+      "published_at": "2026-11-06T07:34:24.931917+05:30"
+    },
+    {
+      "id": 79,
       "title": "Best approach for demand forecasting across 40 locations? Separate models or one global model? [p]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xohxyv/best_approach_for_demand_forecasting_across_40/",
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "Hey everyone, I'm a final-year B.Tech CSE (AI/ML) student working on a multi-agent supply chain optimization project. I'm currently focusing on the Demand Forecasting Agent and would appreciate some advice on model selection and training strategy. We're working with a synthetic retail supply chain d",
-      "published_at": "2026-11-06T02:52:56.359142+05:30"
-    },
-    {
-      "id": 79,
-      "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-      "source": "Machine Learning",
-      "category": "Coding",
-      "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was built t",
-      "published_at": "2026-11-06T02:52:56.359153+05:30"
+      "published_at": "2026-11-06T07:34:24.931953+05:30"
     },
     {
       "id": 80,
@@ -724,7 +724,7 @@
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 187.9k stars · Python — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "published_at": "2026-11-06T02:52:56.359160+05:30"
+      "published_at": "2026-11-06T07:34:24.931963+05:30"
     },
     {
       "id": 81,
@@ -733,178 +733,178 @@
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 160.5k stars · Python — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "published_at": "2026-11-06T02:52:56.359173+05:30"
+      "published_at": "2026-11-06T07:34:24.931979+05:30"
     },
     {
       "id": 82,
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Chatbot/Assistant",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "published_at": "2026-11-06T07:34:24.931998+05:30"
+    },
+    {
+      "id": 83,
       "title": "Meta says US users can now video chat with their Muse AI avatar",
       "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Coding",
       "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "published_at": "2026-11-06T02:52:56.359178+05:30"
+      "published_at": "2026-11-06T07:34:24.932004+05:30"
     },
     {
-      "id": 83,
+      "id": 84,
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Other",
       "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "published_at": "2026-11-06T02:52:56.359190+05:30"
+      "published_at": "2026-11-06T07:34:24.932018+05:30"
     },
     {
-      "id": 84,
+      "id": 85,
       "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Image",
       "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "published_at": "2026-11-06T02:52:56.359197+05:30"
+      "published_at": "2026-11-06T07:34:24.932027+05:30"
     },
     {
-      "id": 85,
+      "id": 86,
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "AI | The Verge",
+      "category": "Productivity",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointmen",
+      "published_at": "2026-11-06T07:34:24.932043+05:30"
+    },
+    {
+      "id": 87,
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "AI | The Verge",
+      "category": "Image",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity ",
+      "published_at": "2026-11-06T07:34:24.932053+05:30"
+    },
+    {
+      "id": 88,
       "title": "Same Origin, Different Verdicts: Text Production Conditions Confound Machine-Generated Text Detection in Russian",
       "url": "https://arxiv.org/abs/2611.05385",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05385v1 Announce Type: new Abstract: Automated detection of machine-generated text is applied where the verdict carries a cost for the author, yet origin is a property of the production process, not an observable property of the text. The conditions under which a text is produced push it ",
-      "published_at": "2026-11-06T02:52:56.359215+05:30"
+      "published_at": "2026-11-06T07:34:24.932073+05:30"
     },
     {
-      "id": 86,
+      "id": 89,
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-06T02:52:56.359223+05:30"
+      "published_at": "2026-11-06T07:34:24.932083+05:30"
     },
     {
-      "id": 87,
-      "title": "llm 0.37.1",
-      "url": "https://simonwillison.net/2026/Nov/3/llm/",
-      "source": "Simon Willison's Weblog",
-      "category": "Other",
-      "summary": "Release: llm 0.37.1 A bugfix release for LLM, with contributions from Steven Huang, Tao An, Arjan Mossel, and XQ. Tags: llm",
-      "published_at": "2026-11-06T02:52:56.359234+05:30"
-    },
-    {
-      "id": 88,
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for 100+/month subscripti",
-      "published_at": "2026-11-06T02:52:56.359242+05:30"
-    },
-    {
-      "id": 89,
+      "id": 90,
       "title": "Constraint-Preserving Flow Matching for Spectral Graph Generation",
       "url": "https://arxiv.org/abs/2611.05436",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05436v1 Announce Type: new Abstract: Spectral graph generation models graphs through the eigenvalues and eigenvectors of their Laplacians, providing a compact and continuous alternative to direct graph construction. However, these eigensystems must retain the structural properties of grap",
-      "published_at": "2026-11-06T02:52:56.359254+05:30"
+      "published_at": "2026-11-06T07:34:24.932098+05:30"
     },
     {
-      "id": 90,
+      "id": 91,
       "title": "The Confidence Score: a New Measure on Kernels",
       "url": "https://arxiv.org/abs/2611.05528",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05528v1 Announce Type: new Abstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which kern",
-      "published_at": "2026-11-06T02:52:56.359263+05:30"
+      "published_at": "2026-11-06T07:34:24.932109+05:30"
     },
     {
-      "id": 91,
+      "id": 92,
       "title": "Relevance Propagation as Entropic Optimal Transport on Filippov Neural Networks: Sinkhorn Propagation and Region Relevance in Image Classifiers",
       "url": "https://arxiv.org/abs/2611.05594",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05594v1 Announce Type: new Abstract: Relevance propagation, which redistributes a network's prediction backward through the layers, is usually treated as a heuristic. We show that it is the solution of a single variational problem: Layer-wise Relevance Propagation (LRP) is the divergence-",
-      "published_at": "2026-11-06T02:52:56.359280+05:30"
+      "published_at": "2026-11-06T07:34:24.932129+05:30"
     },
     {
-      "id": 92,
+      "id": 93,
       "title": "RIDGE: State-Conditioned Reward Blending for Behavioral Coverage in Deep RL Game Agents",
       "url": "https://arxiv.org/abs/2611.05601",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05601v1 Announce Type: new Abstract: A deep RL agent trained on a fixed persona reward plays one way: an Explorer keeps exploring while starving, a Survivor hoards on an empty map. Since each persona fixes its own reward, automated playtesting trains N agents for N styles. Changing reward",
-      "published_at": "2026-11-06T02:52:56.359292+05:30"
+      "published_at": "2026-11-06T07:34:24.932142+05:30"
     },
     {
-      "id": 93,
+      "id": 94,
       "title": "Transport along Local Annealing Paths: Wasserstein Geometry and Multimodal Sampling",
       "url": "https://arxiv.org/abs/2611.05605",
       "source": "cs.LG updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.05605v1 Announce Type: new Abstract: Variational approaches to learning transport maps for multimodal sampling can suffer from mode collapse. One way to mitigate this problem is to learn transport along a prescribed path of intermediate distributions defined by geometric annealing. We sho",
-      "published_at": "2026-11-06T02:52:56.359305+05:30"
-    },
-    {
-      "id": 94,
-      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-      "url": "https://latent.space/p/opus55/",
-      "source": "Latent Space",
-      "category": "Engineering",
-      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
-      "published_at": "2026-11-06T02:52:56.359317+05:30"
+      "published_at": "2026-11-06T07:34:24.932158+05:30"
     },
     {
       "id": 95,
+      "title": "llm 0.37.1",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/",
+      "source": "Simon Willison's Weblog",
+      "category": "Other",
+      "summary": "Release: llm 0.37.1 A bugfix release for LLM, with contributions from Steven Huang, Tao An, Arjan Mossel, and XQ. Tags: llm",
+      "published_at": "2026-11-06T07:34:24.932170+05:30"
+    },
+    {
+      "id": 96,
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for 100+/month subscripti",
+      "published_at": "2026-11-06T07:34:24.932180+05:30"
+    },
+    {
+      "id": 97,
       "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
       "source": "Machine Learning",
       "category": "Coding",
       "summary": "I wrote a small checker for training and evaluation code. It looks for mistakes that do not raise errors. The classic one is leakage through preprocessing. With 5,000 random features and random labels, picking the top 20 features on the full dataset and then running 5-fold cross-validation gives 85%",
-      "published_at": "2026-11-06T02:52:56.359328+05:30"
+      "published_at": "2026-11-06T07:34:24.932192+05:30"
     },
     {
-      "id": 96,
+      "id": 98,
       "title": "Industry to academia [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/",
       "source": "Machine Learning",
       "category": "Writing",
       "summary": "I have always had the desire to move to academia but I am not exactly sure how the process or profile building for academia works in general. Yeah, surely, I can ask AI and get answers but I don’t have much confidence in that . I did my PhD from a mid-tier school. My research focus was mostly on LLM",
-      "published_at": "2026-11-06T02:52:56.359339+05:30"
+      "published_at": "2026-11-06T07:34:24.932206+05:30"
     },
     {
-      "id": 97,
+      "id": 99,
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/opus55/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+      "published_at": "2026-11-06T07:34:24.932220+05:30"
+    },
+    {
+      "id": 100,
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 434.0k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "published_at": "2026-11-06T02:52:56.359351+05:30"
-    },
-    {
-      "id": 98,
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending AI",
-      "category": "Open Source",
-      "summary": "⭐ 313.0k stars · Shell — An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-11-06T02:52:56.359363+05:30"
-    },
-    {
-      "id": 99,
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub Trending AI",
-      "category": "Open Source",
-      "summary": "⭐ 260.8k stars · Python — The agent that grows with you",
-      "published_at": "2026-11-06T02:52:56.359372+05:30"
-    },
-    {
-      "id": 100,
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub Trending AI",
-      "category": "Open Source",
-      "summary": "⭐ 198.9k stars · TypeScript — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "published_at": "2026-11-06T02:52:56.359385+05:30"
+      "summary": "⭐ 434.6k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "published_at": "2026-11-06T07:34:24.932235+05:30"
     }
   ]
 }
