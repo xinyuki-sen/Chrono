@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T02:28:40.911288+05:30",
+  "last_updated": "2026-11-24T10:45:19.434283+05:30",
   "top_pick_ids": [
     1,
     2,
@@ -8,903 +8,903 @@
   "articles": [
     {
       "id": 1,
-      "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-      "url": "https://arxiv.org/abs/2611.26875",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26875v1 Announce Type: new Abstract: Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the job and ask. We introduce PreRun, ",
-      "published_at": "2026-11-24T02:28:40.909983+05:30"
-    },
-    {
-      "id": 2,
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
       "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
       "source": "Simon Willison's Weblog",
       "category": "Coding",
       "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol. I shipped LLM 0.38 with support for the new model",
-      "published_at": "2026-11-24T02:28:40.910038+05:30"
+      "published_at": "2026-11-24T10:45:19.432606+05:30"
+    },
+    {
+      "id": 2,
+      "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
+      "url": "https://arxiv.org/abs/2611.26875",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26875v1 Announce Type: new Abstract: Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the job and ask. We introduce PreRun, ",
+      "published_at": "2026-11-24T10:45:19.432678+05:30"
     },
     {
       "id": 3,
-      "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
-      "url": "https://arxiv.org/abs/2611.26752",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26752v1 Announce Type: new Abstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable speci",
-      "published_at": "2026-11-24T02:28:40.910057+05:30"
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transforme",
+      "published_at": "2026-11-24T10:45:19.432702+05:30"
     },
     {
       "id": 4,
-      "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
-      "url": "https://arxiv.org/abs/2611.26828",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26828v1 Announce Type: new Abstract: Delivering robust In-Building Coverage (IBC) is critically impeded by severe Outdoor-to-Indoor (O2I) attenuation, a constraint that intensifies as deployments move from 5G mid-band towards mmWave and prospective 6G sub-THz carriers, where losses of 60-",
-      "published_at": "2026-11-24T02:28:40.910072+05:30"
-    },
-    {
-      "id": 5,
       "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
       "url": "https://arxiv.org/abs/2611.26776",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26776v1 Announce Type: new Abstract: Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the decis",
-      "published_at": "2026-11-24T02:28:40.910089+05:30"
+      "published_at": "2026-11-24T10:45:19.432727+05:30"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
       "url": "https://arxiv.org/abs/2611.26806",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address th",
-      "published_at": "2026-11-24T02:28:40.910107+05:30"
+      "published_at": "2026-11-24T10:45:19.432753+05:30"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
       "url": "https://arxiv.org/abs/2611.26863",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26863v1 Announce Type: new Abstract: Reasoning domains have shaped the post-training recipes of frontier models even though they are trained and deployed in domains beyond math and code. In this paper, we study the consequences of directly adopting reasoning-centric training recipes, e.g.",
-      "published_at": "2026-11-24T02:28:40.910119+05:30"
+      "published_at": "2026-11-24T10:45:19.432770+05:30"
+    },
+    {
+      "id": 7,
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "source": "Simon Willison's Weblog",
+      "category": "Writing",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, f",
+      "published_at": "2026-11-24T10:45:19.432826+05:30"
     },
     {
       "id": 8,
-      "title": "Improving the Optimisation Landscape for Particle Mixtures",
-      "url": "https://arxiv.org/abs/2611.26931",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26931v1 Announce Type: new Abstract: Several methods in statistics and machine learning represent a predictive distribution as an equally weighted mixture of models, or particles, trained via the mixture predictive likelihood. However, we prove that the mixture predictive likelihood is po",
-      "published_at": "2026-11-24T02:28:40.910136+05:30"
-    },
-    {
-      "id": 9,
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "url": "https://arxiv.org/abs/2611.26717",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative par",
-      "published_at": "2026-11-24T02:28:40.910155+05:30"
-    },
-    {
-      "id": 10,
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct ca",
-      "published_at": "2026-11-24T02:28:40.910169+05:30"
-    },
-    {
-      "id": 11,
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "url": "https://arxiv.org/abs/2611.26794",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&amp;E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large",
-      "published_at": "2026-11-24T02:28:40.910182+05:30"
-    },
-    {
-      "id": 12,
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "url": "https://arxiv.org/abs/2611.26870",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evalu",
-      "published_at": "2026-11-24T02:28:40.910199+05:30"
-    },
-    {
-      "id": 13,
-      "title": "Search From the Start: Search-Native Pretraining for Language Models",
-      "url": "https://arxiv.org/abs/2611.26809",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Sea",
-      "published_at": "2026-11-24T02:28:40.910215+05:30"
-    },
-    {
-      "id": 14,
-      "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
-      "url": "https://arxiv.org/abs/2611.26833",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following ",
-      "published_at": "2026-11-24T02:28:40.910240+05:30"
-    },
-    {
-      "id": 15,
-      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
-      "url": "https://arxiv.org/abs/2611.26835",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26835v1 Announce Type: new Abstract: Recent work has shown that continued fraction inspired neural architectures (CoFrGeNets) can be highly parameter efficient yet performant for language modeling. In this work, we revisit continued fraction-based channel mixing with the goal of improving",
-      "published_at": "2026-11-24T02:28:40.910252+05:30"
-    },
-    {
-      "id": 16,
-      "title": "Beyond Prompt Heuristics: Assessing Child Safety Alignment in LLMs",
-      "url": "https://arxiv.org/abs/2611.26965",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26965v1 Announce Type: new Abstract: Child-safety taxonomies typically characterize safety risks through a predefined set of harm categories, and existing evaluations largely operationalize these categories using prompts that explicitly invoke them. However, child-safety considerations ca",
-      "published_at": "2026-11-24T02:28:40.910264+05:30"
-    },
-    {
-      "id": 17,
-      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
-      "url": "https://arxiv.org/abs/2611.26803",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26803v1 Announce Type: new Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollouts, which contain multiple completions per prompt along with their respective rewards. Canonical distillation, however, di",
-      "published_at": "2026-11-24T02:28:40.910275+05:30"
-    },
-    {
-      "id": 18,
-      "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
-      "url": "https://arxiv.org/abs/2611.26847",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26847v1 Announce Type: new Abstract: Traffic forecasting models are typically evaluated under ideal conditions with complete data. This evaluation does not reflect the frequent sensor failures and communication outages common in real-world deployments. This paper presents a comprehensive ",
-      "published_at": "2026-11-24T02:28:40.910289+05:30"
-    },
-    {
-      "id": 19,
-      "title": "CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
-      "url": "https://arxiv.org/abs/2611.26940",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26940v1 Announce Type: new Abstract: Artificial Intelligence (AI) systems are increasingly deployed in safety-critical applications, yet existing AI safety frameworks primarily define, categorize, or govern AI risk rather than proposing implementable models and methods for continually est",
-      "published_at": "2026-11-24T02:28:40.910301+05:30"
-    },
-    {
-      "id": 20,
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "url": "https://arxiv.org/abs/2611.26906",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes ",
-      "published_at": "2026-11-24T02:28:40.910317+05:30"
-    },
-    {
-      "id": 21,
-      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "url": "https://arxiv.org/abs/2611.26910",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answ",
-      "published_at": "2026-11-24T02:28:40.910334+05:30"
-    },
-    {
-      "id": 22,
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
       "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide. I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the",
-      "published_at": "2026-11-24T02:28:40.910353+05:30"
+      "published_at": "2026-11-24T10:45:19.432861+05:30"
     },
     {
-      "id": 23,
-      "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
-      "url": "https://arxiv.org/abs/2611.26756",
+      "id": 9,
+      "title": "Search From the Start: Search-Native Pretraining for Language Models",
+      "url": "https://arxiv.org/abs/2611.26809",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
-      "summary": "arXiv:2611.26756v1 Announce Type: new Abstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 confi",
-      "published_at": "2026-11-24T02:28:40.910389+05:30"
+      "summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Sea",
+      "published_at": "2026-11-24T10:45:19.432885+05:30"
     },
     {
-      "id": 24,
-      "title": "Neural Geometry as a Learning Signal",
-      "url": "https://arxiv.org/abs/2611.26832",
+      "id": 10,
+      "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
+      "url": "https://arxiv.org/abs/2611.26833",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
-      "summary": "arXiv:2611.26832v1 Announce Type: new Abstract: We investigate whether the geometric structure of neural representations can provide a sufficient learning signal for improving model behavior without any supervision on model outputs. First, we fine-tune Llama-3.1-8B to answer questions such as \"What ",
-      "published_at": "2026-11-24T02:28:40.910398+05:30"
+      "summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following ",
+      "published_at": "2026-11-24T10:45:19.432909+05:30"
     },
     {
-      "id": 25,
-      "title": "ProbeAgent: Principled Diagnosis of Agent Failures in Verifiable Environments",
-      "url": "https://arxiv.org/abs/2611.26897",
+      "id": 11,
+      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
+      "url": "https://arxiv.org/abs/2611.26835",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
-      "summary": "arXiv:2611.26897v1 Announce Type: new Abstract: Improving agents requires discovering where they fail and understanding why. An agent acts over multiple steps in a changing environment, so diagnosing its failures requires more than inspecting the final response of a large language model (LLM). The s",
-      "published_at": "2026-11-24T02:28:40.910417+05:30"
+      "summary": "arXiv:2611.26835v1 Announce Type: new Abstract: Recent work has shown that continued fraction inspired neural architectures (CoFrGeNets) can be highly parameter efficient yet performant for language modeling. In this work, we revisit continued fraction-based channel mixing with the goal of improving",
+      "published_at": "2026-11-24T10:45:19.432926+05:30"
     },
     {
-      "id": 26,
-      "title": "Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning",
-      "url": "https://arxiv.org/abs/2611.27053",
+      "id": 12,
+      "title": "Beyond Prompt Heuristics: Assessing Child Safety Alignment in LLMs",
+      "url": "https://arxiv.org/abs/2611.26965",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
-      "summary": "arXiv:2611.27053v1 Announce Type: new Abstract: Multilingual reasoning distillation requires choosing the language in which teacher reasoning is presented, yet existing recipes often entangle linguistic form with differences in generation, translation, and filtering. We construct content-controlled ",
-      "published_at": "2026-11-24T02:28:40.910423+05:30"
+      "summary": "arXiv:2611.26965v1 Announce Type: new Abstract: Child-safety taxonomies typically characterize safety risks through a predefined set of harm categories, and existing evaluations largely operationalize these categories using prompts that explicitly invoke them. However, child-safety considerations ca",
+      "published_at": "2026-11-24T10:45:19.432944+05:30"
     },
     {
-      "id": 27,
-      "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
-      "url": "https://arxiv.org/abs/2611.26805",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26805v1 Announce Type: new Abstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is ",
-      "published_at": "2026-11-24T02:28:40.910436+05:30"
+      "id": 13,
+      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here. It looks like this: The ne",
+      "published_at": "2026-11-24T10:45:19.432969+05:30"
     },
     {
-      "id": 28,
-      "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
-      "url": "https://arxiv.org/abs/2611.26856",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26856v1 Announce Type: new Abstract: We develop self-supervised methods for training Recursive Quadrature Filter (RQF) encoders on unlabeled time series. RQFs are biologically motivated, complex-valued temporal filters that form a special class of diagonal state-space models (SSMs). Each ",
-      "published_at": "2026-11-24T02:28:40.910446+05:30"
-    },
-    {
-      "id": 29,
-      "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents",
-      "url": "https://arxiv.org/abs/2611.26914",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26914v1 Announce Type: new Abstract: Deploying generative AI agents in enterprise clinical workflows requires enforcing multi-dimensional safety and compliance policies--preventing HIPAA Protected Health Information (PHI) exposure, maintaining clinical scope-of-practice boundaries, ensuri",
-      "published_at": "2026-11-24T02:28:40.910457+05:30"
-    },
-    {
-      "id": 30,
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "url": "https://arxiv.org/abs/2611.26782",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: des",
-      "published_at": "2026-11-24T02:28:40.910462+05:30"
-    },
-    {
-      "id": 31,
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "url": "https://arxiv.org/abs/2611.26797",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patt",
-      "published_at": "2026-11-24T02:28:40.910474+05:30"
-    },
-    {
-      "id": 32,
-      "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
-      "url": "https://arxiv.org/abs/2611.26912",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26912v1 Announce Type: new Abstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary APIs are sparsely documented, and errors often appear as silent failures or cryptic exceptions. Hand-crafted knowledge help",
-      "published_at": "2026-11-24T02:28:40.910489+05:30"
-    },
-    {
-      "id": 33,
-      "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
-      "url": "https://arxiv.org/abs/2611.26988",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26988v1 Announce Type: new Abstract: In letter-of-credit (LC) document examination, a correct final decision does not show that every requirement was examined. We therefore evaluate examination requirement by requirement and make each requirement executable. A language model converts the ",
-      "published_at": "2026-11-24T02:28:40.910502+05:30"
-    },
-    {
-      "id": 34,
+      "id": 14,
       "title": "llm-gemini 0.38.1",
       "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
       "source": "Simon Willison's Weblog",
       "category": "Other",
       "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low, medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hyd",
-      "published_at": "2026-11-24T02:28:40.910531+05:30"
+      "published_at": "2026-11-24T10:45:19.433010+05:30"
     },
     {
-      "id": 35,
+      "id": 15,
       "title": "llm-gemini 0.38",
       "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
       "source": "Simon Willison's Weblog",
       "category": "Image",
       "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price, and Hydro",
-      "published_at": "2026-11-24T02:28:40.910550+05:30"
+      "published_at": "2026-11-24T10:45:19.433038+05:30"
     },
     {
-      "id": 36,
+      "id": 16,
       "title": "External sandboxes for coding agents",
       "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
       "source": "Simon Willison's Weblog",
       "category": "Writing",
       "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this pr",
-      "published_at": "2026-11-24T02:28:40.910558+05:30"
+      "published_at": "2026-11-24T10:45:19.433049+05:30"
     },
     {
-      "id": 37,
+      "id": 17,
+      "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
+      "url": "https://arxiv.org/abs/2611.26756",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26756v1 Announce Type: new Abstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 confi",
+      "published_at": "2026-11-24T10:45:19.433091+05:30"
+    },
+    {
+      "id": 18,
+      "title": "Neural Geometry as a Learning Signal",
+      "url": "https://arxiv.org/abs/2611.26832",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26832v1 Announce Type: new Abstract: We investigate whether the geometric structure of neural representations can provide a sufficient learning signal for improving model behavior without any supervision on model outputs. First, we fine-tune Llama-3.1-8B to answer questions such as \"What ",
+      "published_at": "2026-11-24T10:45:19.433103+05:30"
+    },
+    {
+      "id": 19,
+      "title": "ProbeAgent: Principled Diagnosis of Agent Failures in Verifiable Environments",
+      "url": "https://arxiv.org/abs/2611.26897",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26897v1 Announce Type: new Abstract: Improving agents requires discovering where they fail and understanding why. An agent acts over multiple steps in a changing environment, so diagnosing its failures requires more than inspecting the final response of a large language model (LLM). The s",
+      "published_at": "2026-11-24T10:45:19.433124+05:30"
+    },
+    {
+      "id": 20,
+      "title": "Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning",
+      "url": "https://arxiv.org/abs/2611.27053",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.27053v1 Announce Type: new Abstract: Multilingual reasoning distillation requires choosing the language in which teacher reasoning is presented, yet existing recipes often entangle linguistic form with differences in generation, translation, and filtering. We construct content-controlled ",
+      "published_at": "2026-11-24T10:45:19.433132+05:30"
+    },
+    {
+      "id": 21,
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 178.3k stars · MDX — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "published_at": "2026-11-24T02:28:40.910574+05:30"
+      "published_at": "2026-11-24T10:45:19.433152+05:30"
     },
     {
-      "id": 38,
+      "id": 22,
       "title": "Weight-Space Programming Writes In-Context Learning and Matches Fine-Tuning in Language Models",
       "url": "https://arxiv.org/abs/2611.26841",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26841v1 Announce Type: new Abstract: Weight-space programming is a frontier language model's recently reported ability to read and rewrite another network's weights without gradient descent. We investigate how examples can provide a weight update so that a weaker language model performs t",
-      "published_at": "2026-11-24T02:28:40.910585+05:30"
+      "published_at": "2026-11-24T10:45:19.433167+05:30"
     },
     {
-      "id": 39,
+      "id": 23,
       "title": "How Language Models Compress and Compare: Understanding Selection with Token Covariance Maps",
       "url": "https://arxiv.org/abs/2611.26874",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26874v1 Announce Type: new Abstract: Many language-model tasks reduce to selecting among structured alternatives, yet we still lack a simple picture of how a decoder-only transformer organizes an entire selection prompt across depth. We introduce token covariance maps, a prompt-level geom",
-      "published_at": "2026-11-24T02:28:40.910597+05:30"
+      "published_at": "2026-11-24T10:45:19.433183+05:30"
     },
     {
-      "id": 40,
+      "id": 24,
       "title": "Your Judge Inherits Your Prompt: In-Context Label Bias in an LLM-as-Judge Is Directional, Not Symmetric",
       "url": "https://arxiv.org/abs/2611.26881",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26881v1 Announce Type: new Abstract: LLM-as-judge has become a standard way to score open-ended model outputs, yet the judge is itself a frozen language model steered by a few in-context examples, and such models are known to absorb the label balance of their demonstrations rather than tr",
-      "published_at": "2026-11-24T02:28:40.910612+05:30"
+      "published_at": "2026-11-24T10:45:19.433202+05:30"
     },
     {
-      "id": 41,
+      "id": 25,
       "title": "Modeling Attributional Style at Scale: A Dataset and Analysis for Psychological Attribution Assessment and Reframing",
       "url": "https://arxiv.org/abs/2611.26900",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26900v1 Announce Type: new Abstract: According to the reformulated Learned Helplessness theory, repeated exposure to uncontrollable negative events can foster a depressogenic attributional style, increasing susceptibility to depression yet remaining a tractable target for cognitive therap",
-      "published_at": "2026-11-24T02:28:40.910624+05:30"
+      "published_at": "2026-11-24T10:45:19.433219+05:30"
     },
     {
-      "id": 42,
+      "id": 26,
       "title": "Partially canonical axes in large language model representations",
       "url": "https://arxiv.org/abs/2611.26920",
       "source": "cs.CL updates on arXiv.org",
       "category": "Research",
       "summary": "arXiv:2611.26920v1 Announce Type: new Abstract: Large language models (LLMs) develop rich internal representations of language, but whether their individual coordinate axes carry meaning, or whether meaning is encoded only in directions in representation space, is still an open question. A common as",
-      "published_at": "2026-11-24T02:28:40.910633+05:30"
+      "published_at": "2026-11-24T10:45:19.433230+05:30"
     },
     {
-      "id": 43,
-      "title": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
-      "url": "https://arxiv.org/abs/2611.26929",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26929v1 Announce Type: new Abstract: Dani and Liebe (2026) (DL) report that adapting the final encoder block of BIOT and CBraMod with self-supervised learning (SSL) improves CHB-MIT seizure-detection ROC-AUC by 36.2 and 29.5 points over linear probing. We investigate these results with th",
-      "published_at": "2026-11-24T02:28:40.910643+05:30"
-    },
-    {
-      "id": 44,
-      "title": "Affine-Image Propagation for Tight and Scalable Neural Network Verification",
-      "url": "https://arxiv.org/abs/2611.26978",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26978v1 Announce Type: new Abstract: While bound propagation methods are highly effective for certifying neural networks against _{} adversaries, tight and scalable verification for _{2} adversaries remains a significant open challenge. Existing methods incur geometric loss by enclosing p",
-      "published_at": "2026-11-24T02:28:40.910657+05:30"
-    },
-    {
-      "id": 45,
-      "title": "JevRisk: Zero-Shot Financial Risk Assessment with a Language Decision Model",
-      "url": "https://arxiv.org/abs/2611.26999",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26999v1 Announce Type: new Abstract: Banks must monitor every customer's financial risk, such as money laundering and credit default, by interpreting financial activity in the context of the customer's profile. Existing risk monitoring systems of banks are mostly based on expert-designed ",
-      "published_at": "2026-11-24T02:28:40.910667+05:30"
-    },
-    {
-      "id": 46,
-      "title": "Self-similar Organization of Information in Language",
-      "url": "https://arxiv.org/abs/2611.26935",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26935v1 Announce Type: new Abstract: How much information relevant to predicting the future of a passage (i.e. predictive information) is carried by the preceding text, and how is this information distributed along that history? These questions are fundamental to understanding both the st",
-      "published_at": "2026-11-24T02:28:40.910682+05:30"
-    },
-    {
-      "id": 47,
-      "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
-      "url": "https://arxiv.org/abs/2611.26942",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26942v1 Announce Type: new Abstract: As AI agents ship more code with minimal human oversight, code review becomes the critical quality-control checkpoint -- but one without a reliable, objective verifier: review quality is nuanced and ultimately a judgment call by the PR author. Existing",
-      "published_at": "2026-11-24T02:28:40.910690+05:30"
-    },
-    {
-      "id": 48,
-      "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
-      "url": "https://arxiv.org/abs/2611.26976",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26976v1 Announce Type: new Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs. Their matrix units support only a few native integer datatypes, and converting unsupported weight forma",
-      "published_at": "2026-11-24T02:28:40.910699+05:30"
-    },
-    {
-      "id": 49,
-      "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
-      "url": "https://arxiv.org/abs/2611.26998",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26998v1 Announce Type: new Abstract: We study reward fidelity in an adversarial reinforcement-learning loop for red-teaming financial-services language-model guardrails. Apparent wins can arise when an attack omits prescribed personally identifiable information (PII), or when a reward jud",
-      "published_at": "2026-11-24T02:28:40.910710+05:30"
-    },
-    {
-      "id": 50,
-      "title": "datasette-maplibre 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.) I built most of this with a single prompt to Clau",
-      "published_at": "2026-11-24T02:28:40.910722+05:30"
-    },
-    {
-      "id": 51,
-      "title": "datasette-apps 0.4a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see",
-      "published_at": "2026-11-24T02:28:40.910729+05:30"
-    },
-    {
-      "id": 52,
+      "id": 27,
       "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
       "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "published_at": "2026-11-24T02:28:40.910746+05:30"
+      "published_at": "2026-11-24T10:45:19.433253+05:30"
     },
     {
-      "id": 53,
+      "id": 28,
       "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
       "url": "https://latent.space/p/artcraft/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "published_at": "2026-11-24T02:28:40.910752+05:30"
+      "published_at": "2026-11-24T10:45:19.433261+05:30"
     },
     {
-      "id": 54,
+      "id": 29,
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 148.3k stars · Python — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "published_at": "2026-11-24T02:28:40.910759+05:30"
+      "published_at": "2026-11-24T10:45:19.433270+05:30"
     },
     {
-      "id": 55,
-      "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
-      "url": "https://arxiv.org/abs/2611.26747",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclos",
-      "published_at": "2026-11-24T02:28:40.910768+05:30"
-    },
-    {
-      "id": 56,
-      "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
-      "url": "https://arxiv.org/abs/2611.26775",
-      "source": "cs.CL updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26775v1 Announce Type: new Abstract: Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analys",
-      "published_at": "2026-11-24T02:28:40.910786+05:30"
-    },
-    {
-      "id": 57,
-      "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
-      "url": "https://arxiv.org/abs/2611.26711",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26711v1 Announce Type: new Abstract: Causal Abstraction defines a notion of equivalence between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpretability. In this paper, however, we show the existence of a class of spurious features which str",
-      "published_at": "2026-11-24T02:28:40.910798+05:30"
-    },
-    {
-      "id": 58,
-      "title": "Cross-Attack Robust Aggregation for Federated Learning",
-      "url": "https://arxiv.org/abs/2611.26731",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26731v1 Announce Type: new Abstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive averagin",
-      "published_at": "2026-11-24T02:28:40.910809+05:30"
-    },
-    {
-      "id": 59,
-      "title": "NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration",
-      "url": "https://arxiv.org/abs/2611.26807",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26807v1 Announce Type: new Abstract: NitroGen is an open vision-action foundation model for game control. It is trained by behavior cloning on online gameplay videos. In this paper, we study the frozen controller in Hollow Knight and Trackmania as examples along three dimensions: action a",
-      "published_at": "2026-11-24T02:28:40.910817+05:30"
-    },
-    {
-      "id": 60,
-      "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
-      "url": "https://arxiv.org/abs/2611.26818",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26818v1 Announce Type: new Abstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image and",
-      "published_at": "2026-11-24T02:28:40.910830+05:30"
-    },
-    {
-      "id": 61,
-      "title": "Fair Property Tax: Reducing Regressivity in Machine-Learning Valuation",
-      "url": "https://arxiv.org/abs/2611.27009",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.27009v1 Announce Type: new Abstract: Advanced machine-learning models are increasingly used for property valuation in tax assessment. Although these models can achieve high predictive accuracy, they may systematically assign higher valuation-to-sale ratios to lower-priced properties, a pa",
-      "published_at": "2026-11-24T02:28:40.910847+05:30"
-    },
-    {
-      "id": 62,
-      "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-      "url": "https://arxiv.org/abs/2611.26966",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone. We study an execution boundary that separates agent proposals from business-controlled authority, context disclosure, and suppli",
-      "published_at": "2026-11-24T02:28:40.910863+05:30"
-    },
-    {
-      "id": 63,
-      "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
-      "url": "https://arxiv.org/abs/2611.26968",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied. We call these additions unsupported framing and find them far more often in LLM drafts than in report",
-      "published_at": "2026-11-24T02:28:40.910873+05:30"
-    },
-    {
-      "id": 64,
-      "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
-      "url": "https://arxiv.org/abs/2611.26975",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle. Streaming safety checks today trade accuracy against cost. A dedicated guard model is accurate but nearly doubles the latency per toke",
-      "published_at": "2026-11-24T02:28:40.910880+05:30"
-    },
-    {
-      "id": 65,
-      "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
-      "url": "https://arxiv.org/abs/2611.27007",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care. However, existing benchmarks rely on manual expert authoring, limiting coverage across condition",
-      "published_at": "2026-11-24T02:28:40.910897+05:30"
-    },
-    {
-      "id": 66,
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "source": "Simon Willison's Weblog",
+      "id": 30,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
       "category": "Coding",
-      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying T",
-      "published_at": "2026-11-24T02:28:40.910914+05:30"
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "published_at": "2026-11-24T10:45:19.433275+05:30"
     },
     {
-      "id": 67,
-      "title": "datasette-arrows 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "source": "Simon Willison's Weblog",
-      "category": "Research",
-      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats suppo",
-      "published_at": "2026-11-24T02:28:40.910948+05:30"
-    },
-    {
-      "id": 68,
-      "title": "datasette 1.0a43",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "source": "Simon Willison's Weblog",
-      "category": "Writing",
-      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins ",
-      "published_at": "2026-11-24T02:28:40.910956+05:30"
-    },
-    {
-      "id": 69,
+      "id": 31,
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-24T02:28:40.910964+05:30"
+      "published_at": "2026-11-24T10:45:19.433287+05:30"
     },
     {
-      "id": 70,
+      "id": 32,
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent: chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashe",
+      "published_at": "2026-11-24T10:45:19.433295+05:30"
+    },
+    {
+      "id": 33,
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying T",
+      "published_at": "2026-11-24T10:45:19.433333+05:30"
+    },
+    {
+      "id": 34,
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison's Weblog",
+      "category": "Research",
+      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats suppo",
+      "published_at": "2026-11-24T10:45:19.433380+05:30"
+    },
+    {
+      "id": 35,
+      "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+      "url": "https://arxiv.org/abs/2611.26747",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclos",
+      "published_at": "2026-11-24T10:45:19.433392+05:30"
+    },
+    {
+      "id": 36,
+      "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
+      "url": "https://arxiv.org/abs/2611.26775",
+      "source": "cs.CL updates on arXiv.org",
+      "category": "Research",
+      "summary": "arXiv:2611.26775v1 Announce Type: new Abstract: Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analys",
+      "published_at": "2026-11-24T10:45:19.433414+05:30"
+    },
+    {
+      "id": 37,
       "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
       "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "published_at": "2026-11-24T02:28:40.910979+05:30"
+      "published_at": "2026-11-24T10:45:19.433433+05:30"
     },
     {
-      "id": 71,
+      "id": 38,
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 188.2k stars · Python — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "published_at": "2026-11-24T02:28:40.910985+05:30"
+      "published_at": "2026-11-24T10:45:19.433441+05:30"
     },
     {
-      "id": 72,
+      "id": 39,
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub Trending AI",
       "category": "Open Source",
       "summary": "⭐ 161.8k stars · Python — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "published_at": "2026-11-24T02:28:40.910999+05:30"
+      "published_at": "2026-11-24T10:45:19.433458+05:30"
     },
     {
-      "id": 73,
+      "id": 40,
       "title": "Claude AI can review pull requests and ship fixes on its own now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
       "source": "AI | The Verge",
       "category": "Coding",
       "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t",
-      "published_at": "2026-11-24T02:28:40.911005+05:30"
+      "published_at": "2026-11-24T10:45:19.433465+05:30"
     },
     {
-      "id": 74,
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face - Blog",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-11-24T02:28:40.911014+05:30"
-    },
-    {
-      "id": 75,
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face - Blog",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-11-24T02:28:40.911034+05:30"
-    },
-    {
-      "id": 76,
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face - Blog",
-      "category": "Other",
-      "summary": "No summary available.",
-      "published_at": "2026-11-24T02:28:40.911043+05:30"
-    },
-    {
-      "id": 77,
-      "title": "On the loss landscape of the linear neural network: beyond critical points",
-      "url": "https://arxiv.org/abs/2611.26671",
-      "source": "cs.LG updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26671v1 Announce Type: new Abstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Su",
-      "published_at": "2026-11-24T02:28:40.911061+05:30"
-    },
-    {
-      "id": 78,
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "url": "https://arxiv.org/abs/2611.26663",
-      "source": "cs.AI updates on arXiv.org",
-      "category": "Research",
-      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized ",
-      "published_at": "2026-11-24T02:28:40.911073+05:30"
-    },
-    {
-      "id": 79,
-      "title": "Muru",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
-      "published_at": "2026-11-24T02:28:40.911097+05:30"
-    },
-    {
-      "id": 80,
-      "title": "llm 0.37.3",
-      "url": "https://simonwillison.net/2026/Nov/16/llm/",
-      "source": "Simon Willison's Weblog",
-      "category": "Coding",
-      "summary": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL: select json_object('a',",
-      "published_at": "2026-11-24T02:28:40.911105+05:30"
-    },
-    {
-      "id": 81,
-      "title": "datasette 0.65.6",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "source": "Simon Willison's Weblog",
-      "category": "Research",
-      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tag",
-      "published_at": "2026-11-24T02:28:40.911120+05:30"
-    },
-    {
-      "id": 82,
+      "id": 41,
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "source": "Google DeepMind News",
       "category": "Coding",
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "published_at": "2026-11-24T02:28:40.911126+05:30"
+      "published_at": "2026-11-24T10:45:19.433472+05:30"
     },
     {
-      "id": 83,
+      "id": 42,
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "source": "Google DeepMind News",
       "category": "Other",
       "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "published_at": "2026-11-24T02:28:40.911138+05:30"
+      "published_at": "2026-11-24T10:45:19.433488+05:30"
     },
     {
-      "id": 84,
+      "id": 43,
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face - Blog",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.433499+05:30"
+    },
+    {
+      "id": 44,
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face - Blog",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.433511+05:30"
+    },
+    {
+      "id": 45,
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face - Blog",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.433522+05:30"
+    },
+    {
+      "id": 46,
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
+      "published_at": "2026-11-24T10:45:19.433554+05:30"
+    },
+    {
+      "id": 47,
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL: select json_object('a',",
+      "published_at": "2026-11-24T10:45:19.433562+05:30"
+    },
+    {
+      "id": 48,
       "title": "Designing for Agents — Zeno Rocha, Resend",
       "url": "https://latent.space/p/resend/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "published_at": "2026-11-24T02:28:40.911144+05:30"
+      "published_at": "2026-11-24T10:45:19.433570+05:30"
     },
     {
-      "id": 85,
+      "id": 49,
       "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
       "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
       "source": "Latent Space",
       "category": "Engineering",
       "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "published_at": "2026-11-24T02:28:40.911158+05:30"
+      "published_at": "2026-11-24T10:45:19.433614+05:30"
     },
     {
-      "id": 86,
+      "id": 50,
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 475.4k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "published_at": "2026-11-24T02:28:40.911170+05:30"
+      "summary": "⭐ 475.9k stars · TypeScript — Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "published_at": "2026-11-24T10:45:19.433633+05:30"
     },
     {
-      "id": 87,
+      "id": 51,
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 265.6k stars · Python — The agent that grows with you",
-      "published_at": "2026-11-24T02:28:40.911180+05:30"
+      "summary": "⭐ 265.7k stars · Python — The agent that grows with you",
+      "published_at": "2026-11-24T10:45:19.433646+05:30"
     },
     {
-      "id": 88,
+      "id": 52,
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 207.8k stars · TypeScript — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "published_at": "2026-11-24T02:28:40.911186+05:30"
+      "summary": "⭐ 208.1k stars · TypeScript — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published_at": "2026-11-24T10:45:19.433654+05:30"
     },
     {
-      "id": 89,
+      "id": 53,
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 149.9k stars · Python — The agent engineering platform.",
-      "published_at": "2026-11-24T02:28:40.911196+05:30"
+      "summary": "⭐ 150.0k stars · Python — The agent engineering platform.",
+      "published_at": "2026-11-24T10:45:19.433668+05:30"
     },
     {
-      "id": 90,
+      "id": 54,
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "source": "GitHub Trending AI",
       "category": "Open Source",
-      "summary": "⭐ 122.4k stars · Go — why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
-      "published_at": "2026-11-24T02:28:40.911203+05:30"
+      "summary": "⭐ 122.5k stars · Go — why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "published_at": "2026-11-24T10:45:19.433676+05:30"
     },
     {
-      "id": 91,
+      "id": 55,
       "title": "HF Model: thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/models/thinkingmachines/Inkling-2-Mini",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 5,445 likes · 41,888 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-24T02:28:40.911211+05:30"
+      "summary": "🔥 Trending on Hugging Face · 5,537 likes · 41,888 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-24T10:45:19.433685+05:30"
     },
     {
-      "id": 92,
+      "id": 56,
       "title": "HF Model: unsloth/Inkling-2-Mini-GGUF",
       "url": "https://huggingface.co/models/unsloth/Inkling-2-Mini-GGUF",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 1,086 likes · 1,292,888 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-24T02:28:40.911217+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,139 likes · 1,292,888 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-24T10:45:19.433693+05:30"
     },
     {
-      "id": 93,
+      "id": 57,
       "title": "HF Model: inworld/voice-isolator",
       "url": "https://huggingface.co/models/inworld/voice-isolator",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 724 likes · 0 downloads · Task: audio-to-audio",
-      "published_at": "2026-11-24T02:28:40.911226+05:30"
+      "summary": "🔥 Trending on Hugging Face · 750 likes · 0 downloads · Task: audio-to-audio",
+      "published_at": "2026-11-24T10:45:19.433704+05:30"
     },
     {
-      "id": 94,
+      "id": 58,
       "title": "HF Model: AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "url": "https://huggingface.co/models/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 636 likes · 329,497 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-24T02:28:40.911233+05:30"
+      "summary": "🔥 Trending on Hugging Face · 671 likes · 329,497 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-24T10:45:19.433712+05:30"
     },
     {
-      "id": 95,
+      "id": 59,
       "title": "HF Model: harness-hub/Qwen3.8-27B-pi-adapted",
       "url": "https://huggingface.co/models/harness-hub/Qwen3.8-27B-pi-adapted",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 1,031 likes · 3,132 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-24T02:28:40.911239+05:30"
+      "summary": "🔥 Trending on Hugging Face · 1,045 likes · 3,132 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-24T10:45:19.433721+05:30"
     },
     {
-      "id": 96,
+      "id": 60,
       "title": "HF Model: higurashi-ai/Haru-4B",
       "url": "https://huggingface.co/models/higurashi-ai/Haru-4B",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 935 likes · 9,087 downloads · Task: audio-to-audio",
-      "published_at": "2026-11-24T02:28:40.911248+05:30"
+      "summary": "🔥 Trending on Hugging Face · 944 likes · 9,087 downloads · Task: audio-to-audio",
+      "published_at": "2026-11-24T10:45:19.433731+05:30"
     },
     {
-      "id": 97,
+      "id": 61,
       "title": "HF Model: tencent/Hy4-flash",
       "url": "https://huggingface.co/models/tencent/Hy4-flash",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 646 likes · 7,696 downloads · Task: image-text-to-text",
-      "published_at": "2026-11-24T02:28:40.911255+05:30"
+      "summary": "🔥 Trending on Hugging Face · 657 likes · 7,696 downloads · Task: image-text-to-text",
+      "published_at": "2026-11-24T10:45:19.433739+05:30"
     },
     {
-      "id": 98,
+      "id": 62,
       "title": "HF Model: SulphurAI/Sulphur-3",
       "url": "https://huggingface.co/models/SulphurAI/Sulphur-3",
       "source": "Hugging Face Blog",
       "category": "Open Source",
-      "summary": "🔥 Trending on Hugging Face · 851 likes · 133,732 downloads · Task: AI Model",
-      "published_at": "2026-11-24T02:28:40.911266+05:30"
+      "summary": "🔥 Trending on Hugging Face · 861 likes · 133,732 downloads · Task: AI Model",
+      "published_at": "2026-11-24T10:45:19.433752+05:30"
     },
     {
-      "id": 99,
+      "id": 63,
       "title": "Building AI that can work across the enterprise",
       "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "source": "Artificial intelligence – MIT Technology Review",
       "category": "Image",
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
-      "published_at": "2026-11-24T02:28:40.911275+05:30"
+      "published_at": "2026-11-24T10:45:19.433764+05:30"
     },
     {
-      "id": 100,
+      "id": 64,
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind News",
+      "category": "Research",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "published_at": "2026-11-24T10:45:19.433777+05:30"
+    },
+    {
+      "id": 65,
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind News",
+      "category": "Video",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.433785+05:30"
+    },
+    {
+      "id": 66,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind News",
+      "category": "Research",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "published_at": "2026-11-24T10:45:19.433803+05:30"
+    },
+    {
+      "id": 67,
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "url": "https://huggingface.co/blog/moe-expert-streaming",
       "source": "Hugging Face - Blog",
       "category": "Other",
       "summary": "No summary available.",
-      "published_at": "2026-11-24T02:28:40.911285+05:30"
+      "published_at": "2026-11-24T10:45:19.433815+05:30"
+    },
+    {
+      "id": 68,
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face - Blog",
+      "category": "Chatbot/Assistant",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.433827+05:30"
+    },
+    {
+      "id": 69,
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "source": "Hacker News",
+      "category": "Products",
+      "summary": "Comments",
+      "published_at": "2026-11-24T10:45:19.433840+05:30"
+    },
+    {
+      "id": 70,
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "source": "Hacker News",
+      "category": "Products",
+      "summary": "Comments",
+      "published_at": "2026-11-24T10:45:19.433852+05:30"
+    },
+    {
+      "id": 71,
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "source": "Simon Willison's Weblog",
+      "category": "Other",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the argum",
+      "published_at": "2026-11-24T10:45:19.433902+05:30"
+    },
+    {
+      "id": 72,
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison's Weblog",
+      "category": "Coding",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of tho",
+      "published_at": "2026-11-24T10:45:19.433910+05:30"
+    },
+    {
+      "id": 73,
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "category": "Coding",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: https://x.com/thebugged",
+      "published_at": "2026-11-24T10:45:19.433934+05:30"
+    },
+    {
+      "id": 74,
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "published_at": "2026-11-24T10:45:19.433956+05:30"
+    },
+    {
+      "id": 75,
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "url": "https://latent.space/p/linear-scaling/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "published_at": "2026-11-24T10:45:19.433974+05:30"
+    },
+    {
+      "id": 76,
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "published_at": "2026-11-24T10:45:19.433992+05:30"
+    },
+    {
+      "id": 77,
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "url": "https://latent.space/p/cloudflare/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+      "published_at": "2026-11-24T10:45:19.434007+05:30"
+    },
+    {
+      "id": 78,
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "published_at": "2026-11-24T10:45:19.434018+05:30"
+    },
+    {
+      "id": 79,
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "url": "https://latent.space/p/jev-revolution/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "published_at": "2026-11-24T10:45:19.434026+05:30"
+    },
+    {
+      "id": 80,
+      "title": "[AINews] Mercor 750m Series D at 20B valuation, $3B run rate",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "published_at": "2026-11-24T10:45:19.434042+05:30"
+    },
+    {
+      "id": 81,
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "url": "https://latent.space/p/naiveai/",
+      "source": "Latent Space",
+      "category": "Engineering",
+      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "published_at": "2026-11-24T10:45:19.434049+05:30"
+    },
+    {
+      "id": 82,
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Coding",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "published_at": "2026-11-24T10:45:19.434055+05:30"
+    },
+    {
+      "id": 83,
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Research",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "published_at": "2026-11-24T10:45:19.434073+05:30"
+    },
+    {
+      "id": 84,
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "category": "Image",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published_at": "2026-11-24T10:45:19.434080+05:30"
+    },
+    {
+      "id": 85,
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Other",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "published_at": "2026-11-24T10:45:19.434108+05:30"
+    },
+    {
+      "id": 86,
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Coding",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time",
+      "published_at": "2026-11-24T10:45:19.434117+05:30"
+    },
+    {
+      "id": 87,
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Image",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "published_at": "2026-11-24T10:45:19.434131+05:30"
+    },
+    {
+      "id": 88,
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "category": "Chatbot/Assistant",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+      "published_at": "2026-11-24T10:45:19.434156+05:30"
+    },
+    {
+      "id": 89,
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "source": "Ars Technica",
+      "category": "Image",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "published_at": "2026-11-24T10:45:19.434163+05:30"
+    },
+    {
+      "id": 90,
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind News",
+      "category": "Chatbot/Assistant",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "published_at": "2026-11-24T10:45:19.434177+05:30"
+    },
+    {
+      "id": 91,
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434186+05:30"
+    },
+    {
+      "id": 92,
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434195+05:30"
+    },
+    {
+      "id": 93,
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434204+05:30"
+    },
+    {
+      "id": 94,
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind News",
+      "category": "Productivity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "published_at": "2026-11-24T10:45:19.434216+05:30"
+    },
+    {
+      "id": 95,
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "published_at": "2026-11-24T10:45:19.434229+05:30"
+    },
+    {
+      "id": 96,
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434239+05:30"
+    },
+    {
+      "id": 97,
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434249+05:30"
+    },
+    {
+      "id": 98,
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind News",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434258+05:30"
+    },
+    {
+      "id": 99,
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face - Blog",
+      "category": "Chatbot/Assistant",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434269+05:30"
+    },
+    {
+      "id": 100,
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face - Blog",
+      "category": "Other",
+      "summary": "No summary available.",
+      "published_at": "2026-11-24T10:45:19.434281+05:30"
     }
   ]
 }
